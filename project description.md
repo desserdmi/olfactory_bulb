@@ -13,6 +13,7 @@ Olfactory and emotional higher processing pathways share common anatomical subst
 Furthermore, anosmia is a common non-motor feature of Parkinson's disease (PD).
 
 
+
 ![coronar view](https://github.com/desserdmi/olfactory_bulb/blob/master/cor.png)
 
 ### Aims
@@ -24,9 +25,9 @@ Furthermore, anosmia is a common non-motor feature of Parkinson's disease (PD).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAzOTI1MzI0LDE1MDUxNzkwNzcsNjMyNj
-c5NjQzLDcwNzcwMzI3NSwxODk5MzA5NTI1LC0xOTk1NzMzODgs
-LTUzMjQ1NDU5MywxOTgxNzI0NzgxLDU0MTYzMTAzNywtMzI2MT
-c4MTY0LC0xMjAwNjk1NzIsLTE3NjkzMjEwOCwtNzE0NjE5NzUy
-XX0=
+eyJoaXN0b3J5IjpbLTE1MTM1NTEzNjYsMTUwNTE3OTA3Nyw2Mz
+I2Nzk2NDMsNzA3NzAzMjc1LDE4OTkzMDk1MjUsLTE5OTU3MzM4
+OCwtNTMyNDU0NTkzLDE5ODE3MjQ3ODEsNTQxNjMxMDM3LC0zMj
+YxNzgxNjQsLTEyMDA2OTU3MiwtMTc2OTMyMTA4LC03MTQ2MTk3
+NTJdfQ==
 -->
