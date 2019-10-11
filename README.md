@@ -30,12 +30,12 @@ Fig 1: *Location of olfactory bulb (my own brain) in T2 MRI contrast, acquired o
 ### Methods  
 
  - manual segmentation of olfactory bulb based on T2 - contrast MRI images using 3DSlicer and ITK-SNAP
- - Clinical data acquisition (already done) 
- - Collect (merge 
- - 
-
+ - clinical data acquisition (already done) 
+ - collect (merge) data to one big dataset 
+ - data preprocessing (e.g. with pandas)
+- fea
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NTAzMTgwMywxODM0MzI5Njg2LDU4OD
+eyJoaXN0b3J5IjpbMTM4NjEzNzI4NCwxODM0MzI5Njg2LDU4OD
 MxOTM2MiwxMzA0MDAxODEwLC0xMzMyOTc4OTM4LC01NjIwNTg3
 NjUsLTEyNzY0MDQ5NCwxNTg0ODY5NTU2LC0xNTEzNTUxMzY2LD
 E1MDUxNzkwNzcsNjMyNjc5NjQzLDcwNzcwMzI3NSwxODk5MzA5
