@@ -42,11 +42,11 @@ Elimination with Support Vector Machine (RFE-SVM)
 - desease  prediction algoritm (SVM) based on most relevant features
 *(Jörn Lötsch, Dario Kringel and Thomas Hummel https://doi.org/10.1093/chemse/bjy067)*
 
-- perform cross-validation
+- cross-validation
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4ODE2OTczNCwxNzUyODU0MTY0LC03Mj
+eyJoaXN0b3J5IjpbMjE0Njc0NjYxNywxNzUyODU0MTY0LC03Mj
 I2OTcwMDQsLTEwNDk1NDQ0MzgsMTgzNDMyOTY4Niw1ODgzMTkz
 NjIsMTMwNDAwMTgxMCwtMTMzMjk3ODkzOCwtNTYyMDU4NzY1LC
 0xMjc2NDA0OTQsMTU4NDg2OTU1NiwtMTUxMzU1MTM2NiwxNTA1
