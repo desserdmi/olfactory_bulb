@@ -9,7 +9,7 @@
 Disturbances of smell and taste are common. About 5% of the general population have anosmia (absence of the sense of smell). Olfactory dysfunction can markedly impair the quality of life. 
 Furthermore, anosmia is a common non-motor feature of Parkinson's disease (PD).
 
-![axial view](https://github.com/desserdmi/olfactory_bulb/blob/master/axial.png)
+![coronar view](https://github.com/desserdmi/olfactory_bulb/blob/master/cor.png)
 
 ### Aims
 
@@ -20,8 +20,8 @@ Furthermore, anosmia is a common non-motor feature of Parkinson's disease (PD).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM3MzMzNzMxLDYzMjY3OTY0Myw3MDc3MD
-MyNzUsMTg5OTMwOTUyNSwtMTk5NTczMzg4LC01MzI0NTQ1OTMs
-MTk4MTcyNDc4MSw1NDE2MzEwMzcsLTMyNjE3ODE2NCwtMTIwMD
-Y5NTcyLC0xNzY5MzIxMDgsLTcxNDYxOTc1Ml19
+eyJoaXN0b3J5IjpbMTUwNTE3OTA3Nyw2MzI2Nzk2NDMsNzA3Nz
+AzMjc1LDE4OTkzMDk1MjUsLTE5OTU3MzM4OCwtNTMyNDU0NTkz
+LDE5ODE3MjQ3ODEsNTQxNjMxMDM3LC0zMjYxNzgxNjQsLTEyMD
+A2OTU3MiwtMTc2OTMyMTA4LC03MTQ2MTk3NTJdfQ==
 -->
