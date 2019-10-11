@@ -50,11 +50,16 @@ Elimination with Support Vector Machine (RFE-SVM)
  - creating of working platform
  - literature review to improve methods
 
-# *Your comments and suggestions are highly appreciated!*
 
+<br><br><br><br><br>
+
+# *Your comments and suggestions are highly appreciated!*
+contact:  dmitriy.desser@gmail.com
+
+<br><br><br><br><br>
 <p><a href="https://commons.wikimedia.org/wiki/File:Beelden_in_Leiden_2016_04_crop.jpg#/media/File:Beelden_in_Leiden_2016_04_crop.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Beelden_in_Leiden_2016_04_crop.jpg/1200px-Beelden_in_Leiden_2016_04_crop.jpg" width="50%" alt="Beelden in Leiden 2016 04 crop.jpg"></a><br>By <a href="//commons.wikimedia.org/wiki/User:Bic" title="User:Bic">User:Bic</a> - <a href="//commons.wikimedia.org/wiki/File:%27Beelden_in_Leiden%27_2016_04.jpg" title="File:'Beelden in Leiden' 2016 04.jpg">File:'Beelden in Leiden' 2016 04.jpg</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=58167980">Link</a></p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMDMyODM2OSwtMTI3Njg1ODI0MiwyMT
+eyJoaXN0b3J5IjpbMTU4MjE5NDQyNCwtMTI3Njg1ODI0MiwyMT
 Q2NzQ2NjE3LDE3NTI4NTQxNjQsLTcyMjY5NzAwNCwtMTA0OTU0
 NDQzOCwxODM0MzI5Njg2LDU4ODMxOTM2MiwxMzA0MDAxODEwLC
 0xMzMyOTc4OTM4LC01NjIwNTg3NjUsLTEyNzY0MDQ5NCwxNTg0
