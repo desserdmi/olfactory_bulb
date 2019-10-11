@@ -38,16 +38,17 @@ in order to identify biomarkers that are relevant for
 the diagnosis using Recursive Feature
 Elimination with Support Vector Machine (RFE-SVM)
 - desease  prediction algoritm (SVM) based on most relevant features
--
+*(Jörn Lötsch, Dario Kringel and Thomas Hummel https://doi.org/10.1093/chemse/bjy067)*
+
 - perform cross-validation
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3OTk3MzM5OSwxNzUyODU0MTY0LC03Mj
-I2OTcwMDQsLTEwNDk1NDQ0MzgsMTgzNDMyOTY4Niw1ODgzMTkz
-NjIsMTMwNDAwMTgxMCwtMTMzMjk3ODkzOCwtNTYyMDU4NzY1LC
-0xMjc2NDA0OTQsMTU4NDg2OTU1NiwtMTUxMzU1MTM2NiwxNTA1
-MTc5MDc3LDYzMjY3OTY0Myw3MDc3MDMyNzUsMTg5OTMwOTUyNS
-wtMTk5NTczMzg4LC01MzI0NTQ1OTMsMTk4MTcyNDc4MSw1NDE2
-MzEwMzddfQ==
+eyJoaXN0b3J5IjpbLTE4NzgzODA4MjQsMTc1Mjg1NDE2NCwtNz
+IyNjk3MDA0LC0xMDQ5NTQ0NDM4LDE4MzQzMjk2ODYsNTg4MzE5
+MzYyLDEzMDQwMDE4MTAsLTEzMzI5Nzg5MzgsLTU2MjA1ODc2NS
+wtMTI3NjQwNDk0LDE1ODQ4Njk1NTYsLTE1MTM1NTEzNjYsMTUw
+NTE3OTA3Nyw2MzI2Nzk2NDMsNzA3NzAzMjc1LDE4OTkzMDk1Mj
+UsLTE5OTU3MzM4OCwtNTMyNDU0NTkzLDE5ODE3MjQ3ODEsNTQx
+NjMxMDM3XX0=
 -->
