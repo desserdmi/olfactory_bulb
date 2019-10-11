@@ -9,13 +9,13 @@
 
 ### Aims
 
- 1. List item
+ - develop a CNN for automated reco
 
  
 
 
 ### Methods  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NTU1NTgzNCwtMTc2OTMyMTA4LC03MT
-Q2MTk3NTJdfQ==
+eyJoaXN0b3J5IjpbNTIwNTI3ODI4LC0xNzY5MzIxMDgsLTcxND
+YxOTc1Ml19
 -->
