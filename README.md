@@ -37,13 +37,13 @@ Fig 1: *Location of olfactory bulb (my own brain) in T2 MRI contrast, acquired o
 in order to identify biomarkers that are relevant for
 the diagnosis using Recursive Feature
 Elimination with Support Vector Machine (RFE-SVM)
-- 
+- SVM prediction algoritm for pr
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMjY5NzAwNCwtMTA0OTU0NDQzOCwxOD
-M0MzI5Njg2LDU4ODMxOTM2MiwxMzA0MDAxODEwLC0xMzMyOTc4
-OTM4LC01NjIwNTg3NjUsLTEyNzY0MDQ5NCwxNTg0ODY5NTU2LC
-0xNTEzNTUxMzY2LDE1MDUxNzkwNzcsNjMyNjc5NjQzLDcwNzcw
-MzI3NSwxODk5MzA5NTI1LC0xOTk1NzMzODgsLTUzMjQ1NDU5My
-wxOTgxNzI0NzgxLDU0MTYzMTAzNywtMzI2MTc4MTY0LC0xMjAw
-Njk1NzJdfQ==
+eyJoaXN0b3J5IjpbLTE5MzkwMjk4OTUsLTcyMjY5NzAwNCwtMT
+A0OTU0NDQzOCwxODM0MzI5Njg2LDU4ODMxOTM2MiwxMzA0MDAx
+ODEwLC0xMzMyOTc4OTM4LC01NjIwNTg3NjUsLTEyNzY0MDQ5NC
+wxNTg0ODY5NTU2LC0xNTEzNTUxMzY2LDE1MDUxNzkwNzcsNjMy
+Njc5NjQzLDcwNzcwMzI3NSwxODk5MzA5NTI1LC0xOTk1NzMzOD
+gsLTUzMjQ1NDU5MywxOTgxNzI0NzgxLDU0MTYzMTAzNywtMzI2
+MTc4MTY0XX0=
 -->
