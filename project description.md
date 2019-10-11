@@ -9,18 +9,7 @@
 Disturbances of smell and taste are common. About 5% of the general population have anosmia (absence of the sense of smell). Olfactory dysfunction can markedly impair the quality of life. 
 Furthermore, anosmia is a common non-motor feature of Parkinson's disease (PD).
 
-![AUTHOR={Rottstaedt, Fabian and Weidner, Kerstin and Hummel, Thomas and Croy, Ilona},    
-TITLE={Pre-aging of the Olfactory Bulb in Major Depression With High Comorbidity of Mental Disorders},      
-JOURNAL={Frontiers in Aging Neuroscience},      
-VOLUME={10},      
-PAGES={354},     
-YEAR={2018},      
-URL={https://www.frontiersin.org/article/10.3389/fnagi.2018.00354},       
-DOI={10.3389/fnagi.2018.00354},      
-ISSN={1663-4365}](https://www.frontiersin.org/files/Articles/369273/fnagi-10-00354-HTML/image_m/fnagi-10-00354-g001.jpg)
-[https://doi.org/10.3389/fnagi.2018.00354](https://doi.org/10.3389/fnagi.2018.00354)
 
-[https://www.frontiersin.org/files/Articles/369273/fnagi-10-00354-HTML/image_m/fnagi-10-00354-g001.jpg](https://www.frontiersin.org/files/Articles/369273/fnagi-10-00354-HTML/image_m/fnagi-10-00354-g001.jpg)
 ### Aims
 
  - develop a CNN for automated segmentation of bulbus olfactorius based on T2 - MRI scans
@@ -30,8 +19,8 @@ ISSN={1663-4365}](https://www.frontiersin.org/files/Articles/369273/fnagi-10-003
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA3NzAzMjc1LDE4OTkzMDk1MjUsLTE5OT
-U3MzM4OCwtNTMyNDU0NTkzLDE5ODE3MjQ3ODEsNTQxNjMxMDM3
-LC0zMjYxNzgxNjQsLTEyMDA2OTU3MiwtMTc2OTMyMTA4LC03MT
-Q2MTk3NTJdfQ==
+eyJoaXN0b3J5IjpbNjMyNjc5NjQzLDcwNzcwMzI3NSwxODk5Mz
+A5NTI1LC0xOTk1NzMzODgsLTUzMjQ1NDU5MywxOTgxNzI0Nzgx
+LDU0MTYzMTAzNywtMzI2MTc4MTY0LC0xMjAwNjk1NzIsLTE3Nj
+kzMjEwOCwtNzE0NjE5NzUyXX0=
 -->
