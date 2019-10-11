@@ -20,6 +20,7 @@ Furthermore, anosmia is a common non-motor feature of Parkinson's disease (PD). 
 
 
 ![olfactory bulb](https://github.com/desserdmi/olfactory_bulb/blob/master/ob.png)
+*Location of olfactory bulb left to write: axial, sagital* 
 
 ### Aims
 
@@ -30,10 +31,10 @@ Furthermore, anosmia is a common non-motor feature of Parkinson's disease (PD). 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNDAwMTgxMCwtMTMzMjk3ODkzOCwtNT
-YyMDU4NzY1LC0xMjc2NDA0OTQsMTU4NDg2OTU1NiwtMTUxMzU1
-MTM2NiwxNTA1MTc5MDc3LDYzMjY3OTY0Myw3MDc3MDMyNzUsMT
-g5OTMwOTUyNSwtMTk5NTczMzg4LC01MzI0NTQ1OTMsMTk4MTcy
-NDc4MSw1NDE2MzEwMzcsLTMyNjE3ODE2NCwtMTIwMDY5NTcyLC
-0xNzY5MzIxMDgsLTcxNDYxOTc1Ml19
+eyJoaXN0b3J5IjpbLTUzOTA5NjM5NywxMzA0MDAxODEwLC0xMz
+MyOTc4OTM4LC01NjIwNTg3NjUsLTEyNzY0MDQ5NCwxNTg0ODY5
+NTU2LC0xNTEzNTUxMzY2LDE1MDUxNzkwNzcsNjMyNjc5NjQzLD
+cwNzcwMzI3NSwxODk5MzA5NTI1LC0xOTk1NzMzODgsLTUzMjQ1
+NDU5MywxOTgxNzI0NzgxLDU0MTYzMTAzNywtMzI2MTc4MTY0LC
+0xMjAwNjk1NzIsLTE3NjkzMjEwOCwtNzE0NjE5NzUyXX0=
 -->
