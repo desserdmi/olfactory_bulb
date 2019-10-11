@@ -15,7 +15,9 @@ Olfactory and emotional higher processing pathways share common anatomical subst
 Croy, I. & Hummel, T. J Neurol (2017) 264: 631. https://doi.org/10.1007/s00415-016-8227-8
 
 Furthermore, anosmia is a common non-motor feature of Parkinson's disease (PD). The  [olfactory tract](https://www.sciencedirect.com/topics/neuroscience/olfactory-tract "Learn more about Olfactory Tract from ScienceDirect's AI-generated Topic Pages")  is involved early in PD as indicated by frequent occurrence of [hyposmia](https://www.sciencedirect.com/topics/neuroscience/hyposmia "Learn more about Hyposmia from ScienceDirect's AI-generated Topic Pages") or anosmia years or decades before motor symptoms and by autopsy studies showing early  [synuclein](https://www.sciencedirect.com/topics/neuroscience/synuclein "Learn more about Synuclein from ScienceDirect's AI-generated Topic Pages")  pathology in the olfactory tract and [anterior olfactory nucleus](https://www.sciencedirect.com/topics/neuroscience/anterior-olfactory-nucleus "Learn more about Anterior Olfactory Nucleus from ScienceDirect's AI-generated Topic Pages") even in the early stages of PD. Testing for  [olfaction](https://www.sciencedirect.com/topics/neuroscience/olfaction "Learn more about Olfaction from ScienceDirect's AI-generated Topic Pages") consists of evaluation of olfactory thresholds, smell identification and discrimination, and  [olfactory memory](https://www.sciencedirect.com/topics/neuroscience/olfactory-memory "Learn more about Olfactory Memory from ScienceDirect's AI-generated Topic Pages").
-Arjun Tarakad, Joseph Jankovic,Chapter Seventeen - Anosmia and Ageusia in Parkinson's Disease,Editor(s): K. Ray Chaudhuri, Nataliya Titova,International Review of Neurobiology,Academic Press,Volume133,2017,Pages 541-556,ISSN 0074-7742, ISBN9780128137086 https://doi.org/10.1016/bs.irn.2017.05.028(http://www.sciencedirect.com/science/article/pii/S0074774217300855)
+
+
+Arjun Tarakad, Joseph Jankovic,ISBN97801https://doi.org/10.1016/bs.irn.2017.05.028 
 
 
 
@@ -30,10 +32,10 @@ Arjun Tarakad, Joseph Jankovic,Chapter Seventeen - Anosmia and Ageusia in Parkin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDU4MjQ5MjAsLTEyNzY0MDQ5NCwxNT
-g0ODY5NTU2LC0xNTEzNTUxMzY2LDE1MDUxNzkwNzcsNjMyNjc5
-NjQzLDcwNzcwMzI3NSwxODk5MzA5NTI1LC0xOTk1NzMzODgsLT
-UzMjQ1NDU5MywxOTgxNzI0NzgxLDU0MTYzMTAzNywtMzI2MTc4
-MTY0LC0xMjAwNjk1NzIsLTE3NjkzMjEwOCwtNzE0NjE5NzUyXX
-0=
+eyJoaXN0b3J5IjpbMTgwOTI0NTI3NCwtMTI3NjQwNDk0LDE1OD
+Q4Njk1NTYsLTE1MTM1NTEzNjYsMTUwNTE3OTA3Nyw2MzI2Nzk2
+NDMsNzA3NzAzMjc1LDE4OTkzMDk1MjUsLTE5OTU3MzM4OCwtNT
+MyNDU0NTkzLDE5ODE3MjQ3ODEsNTQxNjMxMDM3LC0zMjYxNzgx
+NjQsLTEyMDA2OTU3MiwtMTc2OTMyMTA4LC03MTQ2MTk3NTJdfQ
+==
 -->
