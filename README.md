@@ -42,7 +42,7 @@ Elimination with Support Vector Machine (RFE-SVM)
 - desease  prediction algoritm (SVM) based on most relevant features
 *(Jörn Lötsch, Dario Kringel and Thomas Hummel https://doi.org/10.1093/chemse/bjy067)*
 
-- cross-validation
+- cross-validation (CV)
 
 ### Current state:
 
@@ -59,11 +59,11 @@ contact:  dmitriy.desser@gmail.com
 <br>
 <p><a href="https://commons.wikimedia.org/wiki/File:Beelden_in_Leiden_2016_04_crop.jpg#/media/File:Beelden_in_Leiden_2016_04_crop.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Beelden_in_Leiden_2016_04_crop.jpg/1200px-Beelden_in_Leiden_2016_04_crop.jpg" width="50%" alt="Beelden in Leiden 2016 04 crop.jpg"></a><br>By <a href="//commons.wikimedia.org/wiki/User:Bic" title="User:Bic">User:Bic</a> - <a href="//commons.wikimedia.org/wiki/File:%27Beelden_in_Leiden%27_2016_04.jpg" title="File:'Beelden in Leiden' 2016 04.jpg">File:'Beelden in Leiden' 2016 04.jpg</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=58167980">Link</a></p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAxNjQ1ODcyLC0xMjc2ODU4MjQyLDIxND
-Y3NDY2MTcsMTc1Mjg1NDE2NCwtNzIyNjk3MDA0LC0xMDQ5NTQ0
-NDM4LDE4MzQzMjk2ODYsNTg4MzE5MzYyLDEzMDQwMDE4MTAsLT
-EzMzI5Nzg5MzgsLTU2MjA1ODc2NSwtMTI3NjQwNDk0LDE1ODQ4
-Njk1NTYsLTE1MTM1NTEzNjYsMTUwNTE3OTA3Nyw2MzI2Nzk2ND
-MsNzA3NzAzMjc1LDE4OTkzMDk1MjUsLTE5OTU3MzM4OCwtNTMy
-NDU0NTkzXX0=
+eyJoaXN0b3J5IjpbMTI3MTk5MzYyOCwtMTI3Njg1ODI0MiwyMT
+Q2NzQ2NjE3LDE3NTI4NTQxNjQsLTcyMjY5NzAwNCwtMTA0OTU0
+NDQzOCwxODM0MzI5Njg2LDU4ODMxOTM2MiwxMzA0MDAxODEwLC
+0xMzMyOTc4OTM4LC01NjIwNTg3NjUsLTEyNzY0MDQ5NCwxNTg0
+ODY5NTU2LC0xNTEzNTUxMzY2LDE1MDUxNzkwNzcsNjMyNjc5Nj
+QzLDcwNzcwMzI3NSwxODk5MzA5NTI1LC0xOTk1NzMzODgsLTUz
+MjQ1NDU5M119
 -->
