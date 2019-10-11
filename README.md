@@ -44,22 +44,19 @@ Elimination with Support Vector Machine (RFE-SVM)
 
 - cross-validation
 
-#
+### Current state:
 
-
-
-
-
+ - collecting and 
 
 # *Your comments and suggestions are highly appreciated!*
 
 <p><a href="https://commons.wikimedia.org/wiki/File:Beelden_in_Leiden_2016_04_crop.jpg#/media/File:Beelden_in_Leiden_2016_04_crop.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Beelden_in_Leiden_2016_04_crop.jpg/1200px-Beelden_in_Leiden_2016_04_crop.jpg" alt="Beelden in Leiden 2016 04 crop.jpg"></a><br>By <a href="//commons.wikimedia.org/wiki/User:Bic" title="User:Bic">User:Bic</a> - <a href="//commons.wikimedia.org/wiki/File:%27Beelden_in_Leiden%27_2016_04.jpg" title="File:'Beelden in Leiden' 2016 04.jpg">File:'Beelden in Leiden' 2016 04.jpg</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=58167980">Link</a></p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4OTM4OTUzMiwyMTQ2NzQ2NjE3LDE3NT
-I4NTQxNjQsLTcyMjY5NzAwNCwtMTA0OTU0NDQzOCwxODM0MzI5
-Njg2LDU4ODMxOTM2MiwxMzA0MDAxODEwLC0xMzMyOTc4OTM4LC
-01NjIwNTg3NjUsLTEyNzY0MDQ5NCwxNTg0ODY5NTU2LC0xNTEz
-NTUxMzY2LDE1MDUxNzkwNzcsNjMyNjc5NjQzLDcwNzcwMzI3NS
-wxODk5MzA5NTI1LC0xOTk1NzMzODgsLTUzMjQ1NDU5MywxOTgx
-NzI0NzgxXX0=
+eyJoaXN0b3J5IjpbLTIwMjM2MzMxNDQsMjE0Njc0NjYxNywxNz
+UyODU0MTY0LC03MjI2OTcwMDQsLTEwNDk1NDQ0MzgsMTgzNDMy
+OTY4Niw1ODgzMTkzNjIsMTMwNDAwMTgxMCwtMTMzMjk3ODkzOC
+wtNTYyMDU4NzY1LC0xMjc2NDA0OTQsMTU4NDg2OTU1NiwtMTUx
+MzU1MTM2NiwxNTA1MTc5MDc3LDYzMjY3OTY0Myw3MDc3MDMyNz
+UsMTg5OTMwOTUyNSwtMTk5NTczMzg4LC01MzI0NTQ1OTMsMTk4
+MTcyNDc4MV19
 -->
