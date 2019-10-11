@@ -9,14 +9,14 @@
 
 ### Aims
 
- - develop a CNN for automated segmentation of bulbus olfactorious based on T2 - MRI scans
- - develop an algorithm for prediction of 
+ - develop a CNN for automated segmentation of bulbus olfactorius based on T2 - MRI scans
+ - develop a machine-learning algorithm for prediction of 
 
  
 
 
 ### Methods  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAwMTg0MjQ1LC0xNzY5MzIxMDgsLTcxND
+eyJoaXN0b3J5IjpbMTc2MjE5NzAwLC0xNzY5MzIxMDgsLTcxND
 YxOTc1Ml19
 -->
