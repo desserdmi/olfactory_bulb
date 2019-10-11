@@ -6,6 +6,8 @@
 ## Summary
  This is a collaboration project between  the Interdisciplinary Center "Smell & Taste" Dresden, Germany and Center for Music in the Brain Aarhus, Denmark.
 
+Disturbances of smell and taste are common. About 5% of the general population have anosmia (absence of the sense of smell). Olfactory dysfunction can markedly impair the quality of life. 
+Furthermore, anosmia is a common nonmotor feature of Parkinson's disease (PD).
 
 ### Aims
 
@@ -16,6 +18,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQxNjMxMDM3LC0zMjYxNzgxNjQsLTEyMD
-A2OTU3MiwtMTc2OTMyMTA4LC03MTQ2MTk3NTJdfQ==
+eyJoaXN0b3J5IjpbMTA4OTgzMzY2LDU0MTYzMTAzNywtMzI2MT
+c4MTY0LC0xMjAwNjk1NzIsLTE3NjkzMjEwOCwtNzE0NjE5NzUy
+XX0=
 -->
