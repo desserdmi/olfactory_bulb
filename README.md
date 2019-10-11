@@ -47,17 +47,18 @@ Elimination with Support Vector Machine (RFE-SVM)
 ### Current state:
 
  - collecting and arranging the data
- - creating of working platform (e.g. 
+ - creating of working platform
+ - 
 
 # *Your comments and suggestions are highly appreciated!*
 
 <p><a href="https://commons.wikimedia.org/wiki/File:Beelden_in_Leiden_2016_04_crop.jpg#/media/File:Beelden_in_Leiden_2016_04_crop.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Beelden_in_Leiden_2016_04_crop.jpg/1200px-Beelden_in_Leiden_2016_04_crop.jpg" alt="Beelden in Leiden 2016 04 crop.jpg"></a><br>By <a href="//commons.wikimedia.org/wiki/User:Bic" title="User:Bic">User:Bic</a> - <a href="//commons.wikimedia.org/wiki/File:%27Beelden_in_Leiden%27_2016_04.jpg" title="File:'Beelden in Leiden' 2016 04.jpg">File:'Beelden in Leiden' 2016 04.jpg</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=58167980">Link</a></p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU3NTYzNzk3LDIxNDY3NDY2MTcsMTc1Mj
-g1NDE2NCwtNzIyNjk3MDA0LC0xMDQ5NTQ0NDM4LDE4MzQzMjk2
-ODYsNTg4MzE5MzYyLDEzMDQwMDE4MTAsLTEzMzI5Nzg5MzgsLT
-U2MjA1ODc2NSwtMTI3NjQwNDk0LDE1ODQ4Njk1NTYsLTE1MTM1
-NTEzNjYsMTUwNTE3OTA3Nyw2MzI2Nzk2NDMsNzA3NzAzMjc1LD
-E4OTkzMDk1MjUsLTE5OTU3MzM4OCwtNTMyNDU0NTkzLDE5ODE3
-MjQ3ODFdfQ==
+eyJoaXN0b3J5IjpbLTE0OTU3NDczNjQsMjE0Njc0NjYxNywxNz
+UyODU0MTY0LC03MjI2OTcwMDQsLTEwNDk1NDQ0MzgsMTgzNDMy
+OTY4Niw1ODgzMTkzNjIsMTMwNDAwMTgxMCwtMTMzMjk3ODkzOC
+wtNTYyMDU4NzY1LC0xMjc2NDA0OTQsMTU4NDg2OTU1NiwtMTUx
+MzU1MTM2NiwxNTA1MTc5MDc3LDYzMjY3OTY0Myw3MDc3MDMyNz
+UsMTg5OTMwOTUyNSwtMTk5NTczMzg4LC01MzI0NTQ1OTMsMTk4
+MTcyNDc4MV19
 -->
