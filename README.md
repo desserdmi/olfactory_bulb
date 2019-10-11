@@ -35,9 +35,11 @@ Fig 1: *Location of olfactory bulb (my own brain) in T2 MRI contrast, acquired o
  - data preprocessing (e.g. with pandas)
 - automatic feature selection procedure
 in order to identify biomarkers that are relevant for
-the diagnosis  (SVM)
+the diagnosis using Recursive Feature
+Elimination with Support Vector Machine (RFE-SVM)
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MDMwNzA1NywtMTA0OTU0NDQzOCwxOD
+eyJoaXN0b3J5IjpbLTcyMjY5NzAwNCwtMTA0OTU0NDQzOCwxOD
 M0MzI5Njg2LDU4ODMxOTM2MiwxMzA0MDAxODEwLC0xMzMyOTc4
 OTM4LC01NjIwNTg3NjUsLTEyNzY0MDQ5NCwxNTg0ODY5NTU2LC
 0xNTEzNTUxMzY2LDE1MDUxNzkwNzcsNjMyNjc5NjQzLDcwNzcw
