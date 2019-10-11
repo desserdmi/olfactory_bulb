@@ -14,6 +14,7 @@ Olfactory and emotional higher processing pathways share common anatomical subst
 Croy, I. & Hummel, T. J Neurol (2017) 264: 631. https://doi.org/10.1007/s00415-016-8227-8
 
 Furthermore, anosmia is a common non-motor feature of Parkinson's disease (PD).
+Arjun Tarakad, Joseph Jankovic,Chapter Seventeen - Anosmia and Ageusia in Parkinson's Disease,Editor(s): K. Ray Chaudhuri, Nataliya Titova,International Review of Neurobiology,Academic Press,Volume133,2017,Pages 541-556,ISSN 0074-7742,ISBN9780128137086,https://doi.org/10.1016/bs.irn.2017.05.028(http://www.sciencedirect.com/science/article/pii/S0074774217300855)
 
 
 
@@ -28,9 +29,9 @@ Furthermore, anosmia is a common non-motor feature of Parkinson's disease (PD).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjYyMzcxNDksMTU4NDg2OTU1NiwtMT
-UxMzU1MTM2NiwxNTA1MTc5MDc3LDYzMjY3OTY0Myw3MDc3MDMy
-NzUsMTg5OTMwOTUyNSwtMTk5NTczMzg4LC01MzI0NTQ1OTMsMT
-k4MTcyNDc4MSw1NDE2MzEwMzcsLTMyNjE3ODE2NCwtMTIwMDY5
-NTcyLC0xNzY5MzIxMDgsLTcxNDYxOTc1Ml19
+eyJoaXN0b3J5IjpbLTgxODE4NzgwOSwxNTg0ODY5NTU2LC0xNT
+EzNTUxMzY2LDE1MDUxNzkwNzcsNjMyNjc5NjQzLDcwNzcwMzI3
+NSwxODk5MzA5NTI1LC0xOTk1NzMzODgsLTUzMjQ1NDU5MywxOT
+gxNzI0NzgxLDU0MTYzMTAzNywtMzI2MTc4MTY0LC0xMjAwNjk1
+NzIsLTE3NjkzMjEwOCwtNzE0NjE5NzUyXX0=
 -->
