@@ -3,7 +3,7 @@
 
 # Project description Dima
 
-### Summary
+## Summary
  This is a collaboration project between  the Interdisciplinary Center "Smell & Taste" Dresden, Germany and Center for Music in the Brain Aarhus, Denmark.
 
 
@@ -16,6 +16,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNjE3ODE2NCwtMTIwMDY5NTcyLC0xNz
-Y5MzIxMDgsLTcxNDYxOTc1Ml19
+eyJoaXN0b3J5IjpbNTQxNjMxMDM3LC0zMjYxNzgxNjQsLTEyMD
+A2OTU3MiwtMTc2OTMyMTA4LC03MTQ2MTk3NTJdfQ==
 -->
