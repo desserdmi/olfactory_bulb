@@ -10,13 +10,13 @@
 ### Aims
 
  - develop a CNN for automated segmentation of bulbus olfactorius based on T2 - MRI scans
- - develop a machine-learning algorithm for prediction of Anosmia/Dysosmia 
+ - develop a machine-learning algorithm for prediction of Anosmia/Dysosmia and associated diseases  (e.g. 
 
  
 
 
 ### Methods  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY1NjgwNDcyLC0xNzY5MzIxMDgsLTcxND
-YxOTc1Ml19
+eyJoaXN0b3J5IjpbMTAwNTEyMjA4NiwtMTc2OTMyMTA4LC03MT
+Q2MTk3NTJdfQ==
 -->
