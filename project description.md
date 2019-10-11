@@ -9,13 +9,14 @@
 
 ### Aims
 
- - develop a CNN for automated reco
+ - develop a CNN for automated segmentation of bulbus olfactorious based on T2 - MRI scans
+ - develop 
 
  
 
 
 ### Methods  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIwNTI3ODI4LC0xNzY5MzIxMDgsLTcxND
+eyJoaXN0b3J5IjpbODc0MjEwMjc4LC0xNzY5MzIxMDgsLTcxND
 YxOTc1Ml19
 -->
