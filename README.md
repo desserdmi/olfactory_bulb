@@ -35,13 +35,13 @@ Fig 1: *Location of olfactory bulb (my own brain) in T2 MRI contrast, acquired o
  - data preprocessing (e.g. with pandas)
 - automatic feature selection procedure
 in order to identify biomarkers that are relevant for
-the diagnosis. 
+the diagnosis  (SVM)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDk1NDQ0MzgsMTgzNDMyOTY4Niw1OD
-gzMTkzNjIsMTMwNDAwMTgxMCwtMTMzMjk3ODkzOCwtNTYyMDU4
-NzY1LC0xMjc2NDA0OTQsMTU4NDg2OTU1NiwtMTUxMzU1MTM2Ni
-wxNTA1MTc5MDc3LDYzMjY3OTY0Myw3MDc3MDMyNzUsMTg5OTMw
-OTUyNSwtMTk5NTczMzg4LC01MzI0NTQ1OTMsMTk4MTcyNDc4MS
-w1NDE2MzEwMzcsLTMyNjE3ODE2NCwtMTIwMDY5NTcyLC0xNzY5
-MzIxMDhdfQ==
+eyJoaXN0b3J5IjpbMTM0MDMwNzA1NywtMTA0OTU0NDQzOCwxOD
+M0MzI5Njg2LDU4ODMxOTM2MiwxMzA0MDAxODEwLC0xMzMyOTc4
+OTM4LC01NjIwNTg3NjUsLTEyNzY0MDQ5NCwxNTg0ODY5NTU2LC
+0xNTEzNTUxMzY2LDE1MDUxNzkwNzcsNjMyNjc5NjQzLDcwNzcw
+MzI3NSwxODk5MzA5NTI1LC0xOTk1NzMzODgsLTUzMjQ1NDU5My
+wxOTgxNzI0NzgxLDU0MTYzMTAzNywtMzI2MTc4MTY0LC0xMjAw
+Njk1NzJdfQ==
 -->
