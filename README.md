@@ -9,6 +9,7 @@
 Disturbances of smell and taste are common. About 5% of the general population have anosmia (absence of the sense of smell). Olfactory dysfunction can markedly impair the quality of life. 
 
 Olfactory and emotional higher processing pathways share common anatomical substrates. Hence, depression is often accompanied by alterations in olfactory function. These alterations are negative in nature and may involve decreased activation in olfactory eloquent structures or decreased volume in the olfactory bulb (OB).
+Croy, I. & Hummel, T. J Neurol (2017) 264: 631. https://doi.org/10.1007/s00415-016-8227-8
 
 Furthermore, anosmia is a common non-motor feature of Parkinson's disease (PD).
 
@@ -25,9 +26,9 @@ Furthermore, anosmia is a common non-motor feature of Parkinson's disease (PD).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NDg2OTU1NiwtMTUxMzU1MTM2NiwxNT
-A1MTc5MDc3LDYzMjY3OTY0Myw3MDc3MDMyNzUsMTg5OTMwOTUy
-NSwtMTk5NTczMzg4LC01MzI0NTQ1OTMsMTk4MTcyNDc4MSw1ND
-E2MzEwMzcsLTMyNjE3ODE2NCwtMTIwMDY5NTcyLC0xNzY5MzIx
-MDgsLTcxNDYxOTc1Ml19
+eyJoaXN0b3J5IjpbLTEyMDY4MzgyNTQsMTU4NDg2OTU1NiwtMT
+UxMzU1MTM2NiwxNTA1MTc5MDc3LDYzMjY3OTY0Myw3MDc3MDMy
+NzUsMTg5OTMwOTUyNSwtMTk5NTczMzg4LC01MzI0NTQ1OTMsMT
+k4MTcyNDc4MSw1NDE2MzEwMzcsLTMyNjE3ODE2NCwtMTIwMDY5
+NTcyLC0xNzY5MzIxMDgsLTcxNDYxOTc1Ml19
 -->
