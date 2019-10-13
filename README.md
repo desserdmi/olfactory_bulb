@@ -53,5 +53,5 @@ Elimination with Support Vector Machine (RFE-SVM)
 
 <br><br><br><br><br>
 
-# *Your comments and suggestions are highly appreciated!*
-contact:  dmitriy.desser@gmail.com
+## *Your comments and suggestions are highly appreciated!*
+
