@@ -35,7 +35,7 @@ The main aim of this project is to develop a machine-learning algorithm for pred
 4. Developing an automatic feature selection algorithm 
 in order to identify biomarkers that are relevant for
 the diagnosis.  The most promising way seems to be Recursive Feature Elimination with Support Vector Machine (RFE-SVM). As described in this [paper](https://doi.org/10.1101/711135), this method has shown incredible accuracy and stability of biomarkers selected by this [algorithm](https://www.biorxiv.org/content/10.1101/711135v1.full).
-![algorithm](https://github.com/desserdmi/olfactory_bulb/blob/master/F1.large.jpg)
+![algorithm](https://www.biorxiv.org/content/10.1101/711135v1.full)
 *bioRxiv preprint first posted online Jul. 22, 2019; doi: http://dx.doi.org/10.1101/711135. The copyright holder for this preprint (which was not peer-reviewed) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made available under a CC-BY-NC-ND 4.0 International license.*
 
 
@@ -58,6 +58,7 @@ the diagnosis.  The most promising way seems to be Recursive Feature Elimination
 
 Main Developer: Dmitriy Desser
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NzUxMDkyNywtMTIwMjkxMjU0MCwxNT
-c1NjYwMDcsLTEyNzE1ODkyMTIsODk5OTExNjldfQ==
+eyJoaXN0b3J5IjpbMzk1MDY1MDIzLDE2Njc1MTA5MjcsLTEyMD
+I5MTI1NDAsMTU3NTY2MDA3LC0xMjcxNTg5MjEyLDg5OTkxMTY5
+XX0=
 -->
