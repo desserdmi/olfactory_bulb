@@ -32,9 +32,9 @@ The main aim of this project is to develop a machine-learning algorithm for pred
  1. Clinical data acquisition (already done) 
  2.  Collecting (merge) data to one big dataset  (currently under development)
  3. Preprocessing of collected dataset
-4. automatic feature selection procedure
+4. Developing an automatic feature selection algorithm 
 in order to identify biomarkers that are relevant for
-the diagnosis using Recursive Feature
+the diagnosis.  
 Elimination with Support Vector Machine (RFE-SVM)
 *(Leonardo Gutiérrez-Gómez,  Jean-Charles Delvenne https://doi.org/10.1101/711135)*
 
@@ -57,6 +57,6 @@ Elimination with Support Vector Machine (RFE-SVM)
 
 Main Developer: Dmitriy Desser
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNzY3MzMwMywtMTI3MTU4OTIxMiw4OT
-k5MTE2OV19
+eyJoaXN0b3J5IjpbLTE1NzE2ODE2NjksLTEyNzE1ODkyMTIsOD
+k5OTExNjldfQ==
 -->
