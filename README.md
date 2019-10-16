@@ -38,7 +38,7 @@ the diagnosis.  The most promising way seems to be Recursive Feature Elimination
 ![Fig.2](https://www.biorxiv.org/content/biorxiv/early/2019/07/22/711135/F1.large.jpg?width=800&height=600&carousel=1)
 ###### *Fig. 2. Overview of the proposed method. Feature selection is performed systematically across different partitions of the original dataset. Robustness of selected biomarkersis assessed from the output of the RFE-SVM algorithm, and the final accuracy is averaged over subsamplings estimations. (*bioRxiv preprint first posted online Jul. 22, 2019; doi: http://dx.doi.org/10.1101/711135. The copyright holder for this preprint (which was not peer-reviewed) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made available under a CC-BY-NC-ND 4.0 International license.)**
 
-5.  Developing a desease prediction algoritm (SVM) based on most relevant features.  [SVM has
+5.  Developing SVM Desease Prediction Algoritm  based on most relevant features.  [SVM has
 proven state of the art performance in computational biology](https://doi.org/10.1371/journal.pcbi.1000173). It has been already used successfully  
 
 ### Current state:
@@ -55,7 +55,7 @@ proven state of the art performance in computational biology](https://doi.org/10
 
 Main Developer: Dmitriy Desser
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODc2NTQ3NzgsLTgyMzIwMDgzMywtMT
+eyJoaXN0b3J5IjpbLTIxMTA1NTA3NTgsLTgyMzIwMDgzMywtMT
 UwNDQ4MjU3LDM1NDU0NjYwMCwtMTExNjAzODUxNSw3MzU4Mzk3
 MzUsLTI0MjI2MjAzNywyMDI5MDQxMzEwLC0yMDMzMjMwNDg4LD
 E2NzAzOTIzNDIsNzQwODU0NzYsMTY2NzUxMDkyNywzOTUwNjUw
