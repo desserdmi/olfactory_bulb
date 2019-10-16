@@ -37,7 +37,7 @@ The main aim of this project is to develop a machine-learning algorithm for pred
 
  <br>
  
-<img src="https://github.com/desserdmi/olfactory_bulb/blob/master/collect_data.png" width=70% height=70% />
+<img src="https://github.com/desserdmi/olfactory_bulb/blob/master/collect_data.png" width=70% height=70% class="center"/>
 
 
 <br>
@@ -86,7 +86,7 @@ Due to multi-modal features we are going to have (e.g. label volumes derived fro
 
 Main Developer: Dmitriy Desser
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NjA2OTc4OCwxMTE5MTc4MDExLC0xNT
+eyJoaXN0b3J5IjpbMTEyNTgzOTExNCwxMTE5MTc4MDExLC0xNT
 Q4NzY3MDQyLC0xNDQyNjQ5MTU0LC03MTA3MTA3OTksLTE1MzQy
 Mzc5MjUsLTg1NTMxMDYwMCwyOTUyODcwODgsOTA4MDk0NzA1LD
 YyOTU2MjYxLDExNzYxNjQ4MTIsLTgyMzIwMDgzMywtMTUwNDQ4
