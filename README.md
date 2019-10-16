@@ -30,7 +30,7 @@ The main aim of this project is to develop a machine-learning algorithm for pred
 ### Methods  
 
  1. Clinical data acquisition (already done) 
- 2.  Collecting (merge) data to one big dataset  (currently under development)
+ 2.  Collecting (merge) data from different studies to one big dataset  (currently under development)
  3. Data exploration, Data cleaning and Preprocessing of collected dataset
 4. Developing an automatic feature selection algorithm 
 in order to identify biomarkers that are relevant for
@@ -55,9 +55,9 @@ proven state of the art performance in computational biology](https://doi.org/10
 
 Main Developer: Dmitriy Desser
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDQ0ODI1NywzNTQ1NDY2MDAsLTExMT
-YwMzg1MTUsNzM1ODM5NzM1LC0yNDIyNjIwMzcsMjAyOTA0MTMx
-MCwtMjAzMzIzMDQ4OCwxNjcwMzkyMzQyLDc0MDg1NDc2LDE2Nj
-c1MTA5MjcsMzk1MDY1MDIzLC0xMjAyOTEyNTQwLDE1NzU2NjAw
-NywtMTI3MTU4OTIxMiw4OTk5MTE2OV19
+eyJoaXN0b3J5IjpbLTgyMzIwMDgzMywtMTUwNDQ4MjU3LDM1ND
+U0NjYwMCwtMTExNjAzODUxNSw3MzU4Mzk3MzUsLTI0MjI2MjAz
+NywyMDI5MDQxMzEwLC0yMDMzMjMwNDg4LDE2NzAzOTIzNDIsNz
+QwODU0NzYsMTY2NzUxMDkyNywzOTUwNjUwMjMsLTEyMDI5MTI1
+NDAsMTU3NTY2MDA3LC0xMjcxNTg5MjEyLDg5OTkxMTY5XX0=
 -->
