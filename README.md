@@ -31,7 +31,7 @@ The main aim of this project is to develop a machine-learning algorithm for pred
 
  1. Clinical data acquisition (already done) 
  2.  Collecting (merge) data from different studies to one big dataset  (currently under development)
- 
+ [Fig.1 Collect data](https://github.com/desserdmi/olfactory_bulb/blob/master/collect_data.png)
  4. Data exploration, Data cleaning and Preprocessing of collected dataset
 4. Developing an automatic feature selection algorithm 
 in order to identify biomarkers that are relevant for
@@ -58,10 +58,10 @@ proven state of the art performance in computational biology. It has been alread
 
 Main Developer: Dmitriy Desser
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI5NTYyNjEsMTE3NjE2NDgxMiwtODIzMj
-AwODMzLC0xNTA0NDgyNTcsMzU0NTQ2NjAwLC0xMTE2MDM4NTE1
-LDczNTgzOTczNSwtMjQyMjYyMDM3LDIwMjkwNDEzMTAsLTIwMz
-MyMzA0ODgsMTY3MDM5MjM0Miw3NDA4NTQ3NiwxNjY3NTEwOTI3
-LDM5NTA2NTAyMywtMTIwMjkxMjU0MCwxNTc1NjYwMDcsLTEyNz
-E1ODkyMTIsODk5OTExNjldfQ==
+eyJoaXN0b3J5IjpbLTcyMTg1ODAxOSw2Mjk1NjI2MSwxMTc2MT
+Y0ODEyLC04MjMyMDA4MzMsLTE1MDQ0ODI1NywzNTQ1NDY2MDAs
+LTExMTYwMzg1MTUsNzM1ODM5NzM1LC0yNDIyNjIwMzcsMjAyOT
+A0MTMxMCwtMjAzMzIzMDQ4OCwxNjcwMzkyMzQyLDc0MDg1NDc2
+LDE2Njc1MTA5MjcsMzk1MDY1MDIzLC0xMjAyOTEyNTQwLDE1Nz
+U2NjAwNywtMTI3MTU4OTIxMiw4OTk5MTE2OV19
 -->
