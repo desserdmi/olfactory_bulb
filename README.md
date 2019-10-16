@@ -41,7 +41,7 @@ The main aim of this project is to develop a machine-learning algorithm for pred
 
 <br>
 
-3. Data exploration, Data cleaning and Preprocessing of collected dataset: <br>
+3. Data exploration, Data cleaning and Preprocessing of collected dataset: <br><br>
 3.1. What clinical populations do we have? <br>
 3.2. How many samples per population? <br>
 3.3. How many features/clinical parameters? <br>
@@ -83,11 +83,11 @@ As output of the classifier we expect high accuracy, sensitivity and specificity
 
 Main Developer: Dmitriy Desser
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5OTg3NDMzLC04NTUzMTA2MDAsMjk1Mj
-g3MDg4LDkwODA5NDcwNSw2Mjk1NjI2MSwxMTc2MTY0ODEyLC04
-MjMyMDA4MzMsLTE1MDQ0ODI1NywzNTQ1NDY2MDAsLTExMTYwMz
-g1MTUsNzM1ODM5NzM1LC0yNDIyNjIwMzcsMjAyOTA0MTMxMCwt
-MjAzMzIzMDQ4OCwxNjcwMzkyMzQyLDc0MDg1NDc2LDE2Njc1MT
-A5MjcsMzk1MDY1MDIzLC0xMjAyOTEyNTQwLDE1NzU2NjAwN119
-
+eyJoaXN0b3J5IjpbLTE1MzQyMzc5MjUsLTg1NTMxMDYwMCwyOT
+UyODcwODgsOTA4MDk0NzA1LDYyOTU2MjYxLDExNzYxNjQ4MTIs
+LTgyMzIwMDgzMywtMTUwNDQ4MjU3LDM1NDU0NjYwMCwtMTExNj
+AzODUxNSw3MzU4Mzk3MzUsLTI0MjI2MjAzNywyMDI5MDQxMzEw
+LC0yMDMzMjMwNDg4LDE2NzAzOTIzNDIsNzQwODU0NzYsMTY2Nz
+UxMDkyNywzOTUwNjUwMjMsLTEyMDI5MTI1NDAsMTU3NTY2MDA3
+XX0=
 -->
