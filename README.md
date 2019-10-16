@@ -24,8 +24,8 @@ Fig 1: *Location of olfactory bulb (my own brain) in T2 MRI contrast, acquired o
 
 ### Aims
 
- - develop a CNN for automated segmentation of bulbus olfactorius based on T2 - MRI scans 
- - develop a machine-learning algorithm for prediction of Anosmia/Dysosmia and associated diseases  (e.g. Major Depression, Parkinson's disease) based on clinical parameters like volume/shape of bulbus olfactorius, symptoms duration, TDI,  age or gender.
+ 
+ The  develop a machine-learning algorithm for prediction of Anosmia/Dysosmia and associated diseases  (e.g. Major Depression, Parkinson's disease) based on clinical parameters like volume/shape of bulbus olfactorius, symptoms duration, TDI,  age or gender.
 
 ### Methods  
 
@@ -56,5 +56,5 @@ Elimination with Support Vector Machine (RFE-SVM)
 ## *Your comments and suggestions are highly appreciated!*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDM4NjQ2NTldfQ==
+eyJoaXN0b3J5IjpbLTc4MDk0NTg0MF19
 -->
