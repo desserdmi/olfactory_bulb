@@ -63,7 +63,7 @@ the diagnosis.  The most promising way seems to be Recursive Feature Elimination
 5.  Developing SVM Desease Prediction Algoritm  based on most relevant features.  SVM has
 proven state of the art performance in computational biology. It has been already used successfully 
 [R.Prashanth et al](https://doi.org/10.1016/j.ijmedinf.2016.03.001) for predicition of Early Parkinson's Disease through Multi-modal Features.  
-Due to multi-modal features we are going to have (e.g. label volumes derived from MRI data, clinical functional measurements, psychological test results) it makes sense to try a similar approach.  Sure, the performance of other classifiers like Decision Tree or Random Forest (RF) should be tested. As output of the classifier we expect high accuracy, sensitivity and specificity in predicting disease labels. For now, we are not sure how many different disease labels we are going to have in the dataset and how many of them we will try to predict. It depends on the final version of collected dataset and availability of the data.  
+Due to multi-modal features we are going to have (e.g. label volumes derived from MRI data, clinical functional measurements, psychological test results) it makes sense to try a similar approach.  Sure, the performance of other classifiers like Decision Tree or Random Forest (RF) should be tested. As output of the classifier we expect high accuracy, sensitivity and specificity in predicting disease labels. For now, we are not sure how many different disease labels we are going to have in the dataset and how many of them we will try to predict. It depends on the final version of collected dataset due availability of the data.  
  
 
 <br><br><br>
@@ -83,11 +83,11 @@ Due to multi-modal features we are going to have (e.g. label volumes derived fro
 
 Main Developer: Dmitriy Desser
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQxMDcyNzUwLC0xNTM0MjM3OTI1LC04NT
-UzMTA2MDAsMjk1Mjg3MDg4LDkwODA5NDcwNSw2Mjk1NjI2MSwx
-MTc2MTY0ODEyLC04MjMyMDA4MzMsLTE1MDQ0ODI1NywzNTQ1ND
-Y2MDAsLTExMTYwMzg1MTUsNzM1ODM5NzM1LC0yNDIyNjIwMzcs
-MjAyOTA0MTMxMCwtMjAzMzIzMDQ4OCwxNjcwMzkyMzQyLDc0MD
-g1NDc2LDE2Njc1MTA5MjcsMzk1MDY1MDIzLC0xMjAyOTEyNTQw
-XX0=
+eyJoaXN0b3J5IjpbLTcxMDcxMDc5OSwtMTUzNDIzNzkyNSwtOD
+U1MzEwNjAwLDI5NTI4NzA4OCw5MDgwOTQ3MDUsNjI5NTYyNjEs
+MTE3NjE2NDgxMiwtODIzMjAwODMzLC0xNTA0NDgyNTcsMzU0NT
+Q2NjAwLC0xMTE2MDM4NTE1LDczNTgzOTczNSwtMjQyMjYyMDM3
+LDIwMjkwNDEzMTAsLTIwMzMyMzA0ODgsMTY3MDM5MjM0Miw3ND
+A4NTQ3NiwxNjY3NTEwOTI3LDM5NTA2NTAyMywtMTIwMjkxMjU0
+MF19
 -->
