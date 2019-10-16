@@ -31,12 +31,12 @@ The main aim of this project is to develop a machine-learning algorithm for pred
 
  1. Clinical data acquisition (already done) 
  2.  Collecting (merge) data from different studies to one big dataset  (currently under development)
- [Fig.1 Collect data](https://github.com/desserdmi/olfactory_bulb/blob/master/collect_data.png)
+ [Fig.2 Collect data](https://github.com/desserdmi/olfactory_bulb/blob/master/collect_data.png)
  4. Data exploration, Data cleaning and Preprocessing of collected dataset
 4. Developing an automatic feature selection algorithm 
 in order to identify biomarkers that are relevant for
 the diagnosis.  The most promising way seems to be Recursive Feature Elimination with Support Vector Machine (RFE-SVM). As described in this [paper](https://doi.org/10.1101/711135), this method has shown incredible accuracy and stability of biomarkers selected by this [algorithm](https://www.biorxiv.org/content/10.1101/711135v1.full).
-![Fig.2](https://www.biorxiv.org/content/biorxiv/early/2019/07/22/711135/F1.large.jpg?width=800&height=600&carousel=1)
+![Fig.3](https://www.biorxiv.org/content/biorxiv/early/2019/07/22/711135/F1.large.jpg?width=800&height=600&carousel=1)
 ###### *Fig. 2. Overview of the proposed method. Feature selection is performed systematically across different partitions of the original dataset. Robustness of selected biomarkersis assessed from the output of the RFE-SVM algorithm, and the final accuracy is averaged over subsamplings estimations. (*bioRxiv preprint first posted online Jul. 22, 2019; doi: http://dx.doi.org/10.1101/711135. The copyright holder for this preprint (which was not peer-reviewed) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made available under a CC-BY-NC-ND 4.0 International license.)**
 
 5.  Developing SVM Desease Prediction Algoritm  based on most relevant features.  [SVM has
@@ -58,7 +58,7 @@ proven state of the art performance in computational biology. It has been alread
 
 Main Developer: Dmitriy Desser
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMTg1ODAxOSw2Mjk1NjI2MSwxMTc2MT
+eyJoaXN0b3J5IjpbMTA4OTQwNzk5Nyw2Mjk1NjI2MSwxMTc2MT
 Y0ODEyLC04MjMyMDA4MzMsLTE1MDQ0ODI1NywzNTQ1NDY2MDAs
 LTExMTYwMzg1MTUsNzM1ODM5NzM1LC0yNDIyNjIwMzcsMjAyOT
 A0MTMxMCwtMjAzMzIzMDQ4OCwxNjcwMzkyMzQyLDc0MDg1NDc2
