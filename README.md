@@ -34,8 +34,8 @@ The main aim of this project is to develop a machine-learning algorithm for pred
  3. Preprocessing of collected dataset
 4. Developing an automatic feature selection algorithm 
 in order to identify biomarkers that are relevant for
-the diagnosis.  The most promising way seems to be Recursive Feature Elimination with Support Vector Machine (RFE-SVM). SVM has
-proven state of the art performance in computational biology .  As described in this [paper](https://doi.org/10.1101/711135), this method has shown incredible accuracy and stability of biomarkers selected by this [algorithm](https://www.biorxiv.org/content/10.1101/711135v1.full).
+the diagnosis.  The most promising way seems to be Recursive Feature Elimination with Support Vector Machine (RFE-SVM). (SVM has
+proven state of the art performance in computational biology](https://doi.org/10.1371/journal.pcbi.1000173) .  As described in this [paper](https://doi.org/10.1101/711135), this method has shown incredible accuracy and stability of biomarkers selected by this [algorithm](https://www.biorxiv.org/content/10.1101/711135v1.full).
 ![Fig.1](https://www.biorxiv.org/content/biorxiv/early/2019/07/22/711135/F1.large.jpg?width=800&height=600&carousel=1)
 Fig. 1. Overview of the proposed method. Feature selection is performed systematically across different partitions of the original dataset. Robustness of selected biomarkers
 is assessed from the output of the RFE-SVM algorithm, and the final accuracy is averaged over subsamplings estimations.
@@ -63,7 +63,7 @@ is assessed from the output of the RFE-SVM algorithm, and the final accuracy is 
 
 Main Developer: Dmitriy Desser
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc4Mjk3NDgwLC0yMDMzMjMwNDg4LDE2Nz
+eyJoaXN0b3J5IjpbODA3NjQ4MzYzLC0yMDMzMjMwNDg4LDE2Nz
 AzOTIzNDIsNzQwODU0NzYsMTY2NzUxMDkyNywzOTUwNjUwMjMs
 LTEyMDI5MTI1NDAsMTU3NTY2MDA3LC0xMjcxNTg5MjEyLDg5OT
 kxMTY5XX0=
