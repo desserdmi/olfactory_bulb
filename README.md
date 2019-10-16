@@ -39,7 +39,7 @@ the diagnosis.  The most promising way seems to be Recursive Feature Elimination
 ###### *Fig. 2. Overview of the proposed method. Feature selection is performed systematically across different partitions of the original dataset. Robustness of selected biomarkersis assessed from the output of the RFE-SVM algorithm, and the final accuracy is averaged over subsamplings estimations. (*bioRxiv preprint first posted online Jul. 22, 2019; doi: http://dx.doi.org/10.1101/711135. The copyright holder for this preprint (which was not peer-reviewed) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made available under a CC-BY-NC-ND 4.0 International license.)**
 
 5.  Developing SVM Desease Prediction Algoritm  based on most relevant features.  [SVM has
-proven state of the art performance in computational biology](https://doi.org/10.1371/journal.pcbi.1000173). It has been already used successfully  
+proven state of the art performance in computational biology](https://doi.org/10.1371/journal.pcbi.1000173). It has been already used successfully by [Gerkin et al](https://www.sciencedirect.com/science/article/pii/S1386505616300326?via%3Dihub) 
 
 ### Current state:
 
@@ -55,10 +55,10 @@ proven state of the art performance in computational biology](https://doi.org/10
 
 Main Developer: Dmitriy Desser
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTA1NTA3NTgsLTgyMzIwMDgzMywtMT
-UwNDQ4MjU3LDM1NDU0NjYwMCwtMTExNjAzODUxNSw3MzU4Mzk3
-MzUsLTI0MjI2MjAzNywyMDI5MDQxMzEwLC0yMDMzMjMwNDg4LD
-E2NzAzOTIzNDIsNzQwODU0NzYsMTY2NzUxMDkyNywzOTUwNjUw
-MjMsLTEyMDI5MTI1NDAsMTU3NTY2MDA3LC0xMjcxNTg5MjEyLD
-g5OTkxMTY5XX0=
+eyJoaXN0b3J5IjpbMTI5MTQ5MzM5NywtODIzMjAwODMzLC0xNT
+A0NDgyNTcsMzU0NTQ2NjAwLC0xMTE2MDM4NTE1LDczNTgzOTcz
+NSwtMjQyMjYyMDM3LDIwMjkwNDEzMTAsLTIwMzMyMzA0ODgsMT
+Y3MDM5MjM0Miw3NDA4NTQ3NiwxNjY3NTEwOTI3LDM5NTA2NTAy
+MywtMTIwMjkxMjU0MCwxNTc1NjYwMDcsLTEyNzE1ODkyMTIsOD
+k5OTExNjldfQ==
 -->
