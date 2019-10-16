@@ -29,8 +29,7 @@ The main aim of this project is to develop a machine-learning algorithm for pred
 
 ### Methods  
 
- - manual segmentation of olfactory bulb based on T2 - contrast MRI images using 3DSlicer and ITK-SNAP
- - clinical data acquisition (already done) 
+ - clinical data acquisition (already under development) 
  - collect (merge) data to one big dataset 
  - data preprocessing (e.g. with pandas)
 - automatic feature selection procedure
@@ -58,5 +57,5 @@ Elimination with Support Vector Machine (RFE-SVM)
 
 Main Developer: Dmitriy Desser
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MDQzMDc4OSw4OTk5MTE2OV19
+eyJoaXN0b3J5IjpbLTEyNzE1ODkyMTIsODk5OTExNjldfQ==
 -->
