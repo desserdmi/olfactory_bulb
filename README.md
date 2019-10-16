@@ -39,7 +39,7 @@ the diagnosis.  The most promising way seems to be Recursive Feature Elimination
 ###### *Fig. 2. Overview of the proposed method. Feature selection is performed systematically across different partitions of the original dataset. Robustness of selected biomarkersis assessed from the output of the RFE-SVM algorithm, and the final accuracy is averaged over subsamplings estimations. (*bioRxiv preprint first posted online Jul. 22, 2019; doi: http://dx.doi.org/10.1101/711135. The copyright holder for this preprint (which was not peer-reviewed) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made available under a CC-BY-NC-ND 4.0 International license.)**
 
 5.  Developing SVM Desease Prediction Algoritm  based on most relevant features.  [SVM has
-proven state of the art performance in computational biology. It has been already used successfully [R.Prashanth et al](https://www.sciencedirect.com/science/article/pii/S1386505616300326?via%3Dihub#!)(https://www.sciencedirect.com/science/article/pii/S1386505616300326?via%3Dihub) for predicition of Early Parkinson's Disease through Multimodal Features. 
+proven state of the art performance in computational biology. It has been already used successfully [R.Prashanth et al](Author links open overlay panel[R.Prashanth]([https://doi.org/10.1016/j.ijmedinf.2016.03.001]"Persistent link using digital object identifier")) for predicition of Early Parkinson's Disease through Multimodal Features. 
 
 ### Current state:
 
@@ -55,10 +55,10 @@ proven state of the art performance in computational biology. It has been alread
 
 Main Developer: Dmitriy Desser
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTQ2NDMyODAsLTgyMzIwMDgzMywtMT
-UwNDQ4MjU3LDM1NDU0NjYwMCwtMTExNjAzODUxNSw3MzU4Mzk3
-MzUsLTI0MjI2MjAzNywyMDI5MDQxMzEwLC0yMDMzMjMwNDg4LD
-E2NzAzOTIzNDIsNzQwODU0NzYsMTY2NzUxMDkyNywzOTUwNjUw
-MjMsLTEyMDI5MTI1NDAsMTU3NTY2MDA3LC0xMjcxNTg5MjEyLD
-g5OTkxMTY5XX0=
+eyJoaXN0b3J5IjpbMTI5MDI3NjY5NSwtODIzMjAwODMzLC0xNT
+A0NDgyNTcsMzU0NTQ2NjAwLC0xMTE2MDM4NTE1LDczNTgzOTcz
+NSwtMjQyMjYyMDM3LDIwMjkwNDEzMTAsLTIwMzMyMzA0ODgsMT
+Y3MDM5MjM0Miw3NDA4NTQ3NiwxNjY3NTEwOTI3LDM5NTA2NTAy
+MywtMTIwMjkxMjU0MCwxNTc1NjYwMDcsLTEyNzE1ODkyMTIsOD
+k5OTExNjldfQ==
 -->
