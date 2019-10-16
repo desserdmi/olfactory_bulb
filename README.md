@@ -42,6 +42,7 @@ the diagnosis.  The most promising way seems to be Recursive Feature Elimination
 proven state of the art performance in computational biology. It has been already used successfully 
 [R.Prashanth et al](https://doi.org/10.1016/j.ijmedinf.2016.03.001) for predicition of Early Parkinson's Disease through Multimodal Features. 
 
+
 ### Current state:
 
  - collecting and arranging the data
@@ -56,10 +57,10 @@ proven state of the art performance in computational biology. It has been alread
 
 Main Developer: Dmitriy Desser
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY4NDkyNzY2LC04MjMyMDA4MzMsLTE1MD
-Q0ODI1NywzNTQ1NDY2MDAsLTExMTYwMzg1MTUsNzM1ODM5NzM1
-LC0yNDIyNjIwMzcsMjAyOTA0MTMxMCwtMjAzMzIzMDQ4OCwxNj
-cwMzkyMzQyLDc0MDg1NDc2LDE2Njc1MTA5MjcsMzk1MDY1MDIz
-LC0xMjAyOTEyNTQwLDE1NzU2NjAwNywtMTI3MTU4OTIxMiw4OT
-k5MTE2OV19
+eyJoaXN0b3J5IjpbMTE3NjE2NDgxMiwtODIzMjAwODMzLC0xNT
+A0NDgyNTcsMzU0NTQ2NjAwLC0xMTE2MDM4NTE1LDczNTgzOTcz
+NSwtMjQyMjYyMDM3LDIwMjkwNDEzMTAsLTIwMzMyMzA0ODgsMT
+Y3MDM5MjM0Miw3NDA4NTQ3NiwxNjY3NTEwOTI3LDM5NTA2NTAy
+MywtMTIwMjkxMjU0MCwxNTc1NjYwMDcsLTEyNzE1ODkyMTIsOD
+k5OTExNjldfQ==
 -->
