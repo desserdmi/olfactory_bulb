@@ -62,7 +62,7 @@ the diagnosis.  The most promising way seems to be Recursive Feature Elimination
 
 
 5.  Developing SVM Desease Prediction Algoritm  based on most relevant features.  SVM has
-proven state of the art performance in computational biology. It has been already used successfully 
+proven state of the art performance in computational biology. It has been already used successfully by
 [R.Prashanth et al](https://doi.org/10.1016/j.ijmedinf.2016.03.001) for predicition of Early Parkinson's Disease through Multi-modal Features.  
 Due to multi-modal features we are going to have (e.g. label volumes derived from MRI data, clinical functional measurements, psychological test results) it makes sense to try a similar approach.  Sure, the performance of other classifiers like Decision Tree or Random Forest (RF) should be tested. As output of the classifier we expect high accuracy, sensitivity and specificity in predicting disease labels. For now, we are not sure how many different disease labels we are going to have in the dataset and how many of them we will try to predict. It depends on the final version of collected dataset due availability of the data.  
  <img src="https://github.com/desserdmi/olfactory_bulb/blob/master/process.png" width=70% height=70% />
@@ -86,11 +86,11 @@ Due to multi-modal features we are going to have (e.g. label volumes derived fro
 
 Main Developer: Dmitriy Desser
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExOTE3ODAxMSwtMTU0ODc2NzA0MiwtMT
-Q0MjY0OTE1NCwtNzEwNzEwNzk5LC0xNTM0MjM3OTI1LC04NTUz
-MTA2MDAsMjk1Mjg3MDg4LDkwODA5NDcwNSw2Mjk1NjI2MSwxMT
-c2MTY0ODEyLC04MjMyMDA4MzMsLTE1MDQ0ODI1NywzNTQ1NDY2
-MDAsLTExMTYwMzg1MTUsNzM1ODM5NzM1LC0yNDIyNjIwMzcsMj
-AyOTA0MTMxMCwtMjAzMzIzMDQ4OCwxNjcwMzkyMzQyLDc0MDg1
-NDc2XX0=
+eyJoaXN0b3J5IjpbLTQ3NjA2OTc4OCwxMTE5MTc4MDExLC0xNT
+Q4NzY3MDQyLC0xNDQyNjQ5MTU0LC03MTA3MTA3OTksLTE1MzQy
+Mzc5MjUsLTg1NTMxMDYwMCwyOTUyODcwODgsOTA4MDk0NzA1LD
+YyOTU2MjYxLDExNzYxNjQ4MTIsLTgyMzIwMDgzMywtMTUwNDQ4
+MjU3LDM1NDU0NjYwMCwtMTExNjAzODUxNSw3MzU4Mzk3MzUsLT
+I0MjI2MjAzNywyMDI5MDQxMzEwLC0yMDMzMjMwNDg4LDE2NzAz
+OTIzNDJdfQ==
 -->
