@@ -37,7 +37,7 @@ in order to identify biomarkers that are relevant for
 the diagnosis.  The most promising way seems to be Recursive Feature Elimination with Support Vector Machine (RFE-SVM). As described in this [paper](https://doi.org/10.1101/711135), this method has shown incredible accuracy and stability of biomarkers selected by this [algorithm](https://www.biorxiv.org/content/10.1101/711135v1.full).
 ![Fig.2](https://www.biorxiv.org/content/biorxiv/early/2019/07/22/711135/F1.large.jpg?width=800&height=600&carousel=1)
 Fig. 2. Overview of the proposed method. Feature selection is performed systematically across different partitions of the original dataset. Robustness of selected biomarkers
-is assessed from the output of the RFE-SVM algorithm, and the final accuracy is averaged over subsamplings estimations.(*bioRxiv preprint first posted online Jul. 22, 2019; doi: http://dx.doi.org/10.1101/711135. The copyright holder for this preprint (which was not peer-reviewed) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made available under a CC-BY-NC-ND 4.0 International license.)*
+is assessed from the output of the RFE-SVM algorithm, and the final accuracy is averaged over subsamplings estimations. (*bioRxiv preprint first posted online Jul. 22, 2019; doi: http://dx.doi.org/10.1101/711135. The copyright holder for this preprint (which was not peer-reviewed) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made available under a CC-BY-NC-ND 4.0 International license.)*
 
 5.  Developing a desease prediction algoritm (SVM) based on most relevant features.  [SVM has
 proven state of the art performance in computational biology](https://doi.org/10.1371/journal.pcbi.1000173) . 
@@ -59,8 +59,8 @@ proven state of the art performance in computational biology](https://doi.org/10
 
 Main Developer: Dmitriy Desser
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MjI2MjAzNywyMDI5MDQxMzEwLC0yMD
-MzMjMwNDg4LDE2NzAzOTIzNDIsNzQwODU0NzYsMTY2NzUxMDky
-NywzOTUwNjUwMjMsLTEyMDI5MTI1NDAsMTU3NTY2MDA3LC0xMj
-cxNTg5MjEyLDg5OTkxMTY5XX0=
+eyJoaXN0b3J5IjpbNzM1ODM5NzM1LC0yNDIyNjIwMzcsMjAyOT
+A0MTMxMCwtMjAzMzIzMDQ4OCwxNjcwMzkyMzQyLDc0MDg1NDc2
+LDE2Njc1MTA5MjcsMzk1MDY1MDIzLC0xMjAyOTEyNTQwLDE1Nz
+U2NjAwNywtMTI3MTU4OTIxMiw4OTk5MTE2OV19
 -->
