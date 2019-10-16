@@ -34,8 +34,8 @@ The main aim of this project is to develop a machine-learning algorithm for pred
  3. Preprocessing of collected dataset
 4. Developing an automatic feature selection algorithm 
 in order to identify biomarkers that are relevant for
-the diagnosis.  The most promising way seems to be Random Forest Elimination with Support Vector Machine (RFE-SVM). As described here
-*(Leonardo Gutiérrez-Gómez,  Jean-Charles Delvenne https://doi.org/10.1101/711135)*
+the diagnosis.  The most promising way seems to be Random Forest Elimination with Support Vector Machine (RFE-SVM). As described
+[here](https://doi.org/10.1101/711135)
 
 - desease  prediction algoritm (SVM) based on most relevant features
 *(Jörn Lötsch, Dario Kringel and Thomas Hummel https://doi.org/10.1093/chemse/bjy067)*
@@ -56,6 +56,6 @@ the diagnosis.  The most promising way seems to be Random Forest Elimination wit
 
 Main Developer: Dmitriy Desser
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTMzNjUyNzYsLTEyNzE1ODkyMTIsOD
-k5OTExNjldfQ==
+eyJoaXN0b3J5IjpbLTY1NTUzMjY4MiwtMTI3MTU4OTIxMiw4OT
+k5MTE2OV19
 -->
