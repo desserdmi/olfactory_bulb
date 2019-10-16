@@ -29,10 +29,10 @@ The main aim of this project is to develop a machine-learning algorithm for pred
 
 ### Methods  
 
- 1. clinical data acquisition (already done) 
- 2.  collect (merge) data to one big dataset  (currently under development)
- 3. Preprocessing of collected data
-- automatic feature selection procedure
+ 1. Clinical data acquisition (already done) 
+ 2.  Collecting (merge) data to one big dataset  (currently under development)
+ 3. Preprocessing of collected dataset
+4. automatic feature selection procedure
 in order to identify biomarkers that are relevant for
 the diagnosis using Recursive Feature
 Elimination with Support Vector Machine (RFE-SVM)
@@ -57,6 +57,6 @@ Elimination with Support Vector Machine (RFE-SVM)
 
 Main Developer: Dmitriy Desser
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzkwMDAyNDAsLTEyNzE1ODkyMTIsOD
-k5OTExNjldfQ==
+eyJoaXN0b3J5IjpbLTMwNzY3MzMwMywtMTI3MTU4OTIxMiw4OT
+k5MTE2OV19
 -->
