@@ -20,7 +20,7 @@ Furthermore, anosmia is a common non-motor feature of Parkinson's disease (PD). 
 
 
 ![olfactory bulb](https://github.com/desserdmi/olfactory_bulb/blob/master/ob.png)
-###### *Fig 1: *Location of olfactory bulb (my own brain) in T2 MRI contrast, acquired on Siemens Prisma 3T . axial (A), sagittal (B) and coronar (C) views.* 
+######  *Fig 1: Location of olfactory bulb (my own brain) in T2 MRI contrast, acquired on Siemens Prisma 3T . axial (A), sagittal (B) and coronar (C) views.*
 
 ### Aims
 
@@ -58,7 +58,7 @@ proven state of the art performance in computational biology](https://doi.org/10
 
 Main Developer: Dmitriy Desser
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMDYzMDI3LDczNTgzOTczNSwtMjQyMj
+eyJoaXN0b3J5IjpbOTYxNTI4Mjk1LDczNTgzOTczNSwtMjQyMj
 YyMDM3LDIwMjkwNDEzMTAsLTIwMzMyMzA0ODgsMTY3MDM5MjM0
 Miw3NDA4NTQ3NiwxNjY3NTEwOTI3LDM5NTA2NTAyMywtMTIwMj
 kxMjU0MCwxNTc1NjYwMDcsLTEyNzE1ODkyMTIsODk5OTExNjld
