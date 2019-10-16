@@ -65,9 +65,6 @@ the diagnosis.  The most promising way seems to be Recursive Feature Elimination
 proven state of the art performance in computational biology. It has been already used successfully 
 [R.Prashanth et al](https://doi.org/10.1016/j.ijmedinf.2016.03.001) for predicition of Early Parkinson's Disease through Multi-modal Features.  
 
-<br>
-
-<img src="https://github.com/desserdmi/olfactory_bulb/blob/master/process.png" width=70% height=70% />
 
 
 <br>
@@ -75,8 +72,14 @@ proven state of the art performance in computational biology. It has been alread
 Due to multi-modal features we are going to have (e.g. label volumes derived from MRI data, clinical functional measurements, psychological test results) it makes sense to try a similar approach.  Sure, the performance of other classifiers like Decision Tree or Random Forest (RF) should be tested. As output of the classifier we expect high accuracy, sensitivity and specificity in predicting disease labels. For now, we are not sure how many different disease labels we are going to have in the dataset and how many of them we will try to predict. It depends on the final version of collected dataset due availability of the data.  
  
 
-<br><br><br>
+<br>
 
+<img src="https://github.com/desserdmi/olfactory_bulb/blob/master/process.png" width=70% height=70% />
+
+<br>
+<br>
+<br>
+<br>
 
 ## Current state:
 
@@ -92,11 +95,11 @@ Due to multi-modal features we are going to have (e.g. label volumes derived fro
 
 Main Developer: Dmitriy Desser
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzODEwMDQ1OSwtMTU0ODc2NzA0MiwtMT
-Q0MjY0OTE1NCwtNzEwNzEwNzk5LC0xNTM0MjM3OTI1LC04NTUz
-MTA2MDAsMjk1Mjg3MDg4LDkwODA5NDcwNSw2Mjk1NjI2MSwxMT
-c2MTY0ODEyLC04MjMyMDA4MzMsLTE1MDQ0ODI1NywzNTQ1NDY2
-MDAsLTExMTYwMzg1MTUsNzM1ODM5NzM1LC0yNDIyNjIwMzcsMj
-AyOTA0MTMxMCwtMjAzMzIzMDQ4OCwxNjcwMzkyMzQyLDc0MDg1
-NDc2XX0=
+eyJoaXN0b3J5IjpbLTQwNTcwMTAzLC0xNTQ4NzY3MDQyLC0xND
+QyNjQ5MTU0LC03MTA3MTA3OTksLTE1MzQyMzc5MjUsLTg1NTMx
+MDYwMCwyOTUyODcwODgsOTA4MDk0NzA1LDYyOTU2MjYxLDExNz
+YxNjQ4MTIsLTgyMzIwMDgzMywtMTUwNDQ4MjU3LDM1NDU0NjYw
+MCwtMTExNjAzODUxNSw3MzU4Mzk3MzUsLTI0MjI2MjAzNywyMD
+I5MDQxMzEwLC0yMDMzMjMwNDg4LDE2NzAzOTIzNDIsNzQwODU0
+NzZdfQ==
 -->
