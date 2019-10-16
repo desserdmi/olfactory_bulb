@@ -56,6 +56,10 @@ the diagnosis.  The most promising way seems to be Recursive Feature Elimination
 ![Fig.3](https://www.biorxiv.org/content/biorxiv/early/2019/07/22/711135/F1.large.jpg?width=800&height=600&carousel=1)
 ###### *Fig. 2. Overview of the proposed method. Feature selection is performed systematically across different partitions of the original dataset. Robustness of selected biomarkersis assessed from the output of the RFE-SVM algorithm, and the final accuracy is averaged over subsamplings estimations. (*bioRxiv preprint first posted online Jul. 22, 2019; doi: http://dx.doi.org/10.1101/711135. The copyright holder for this preprint (which was not peer-reviewed) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made available under a CC-BY-NC-ND 4.0 International license.)**
 
+
+<br>
+
+
 5.  Developing SVM Desease Prediction Algoritm  based on most relevant features.  [SVM has
 proven state of the art performance in computational biology. It has been already used successfully 
 [R.Prashanth et al](https://doi.org/10.1016/j.ijmedinf.2016.03.001) for predicition of Early Parkinson's Disease through Multimodal Features. 
@@ -75,11 +79,11 @@ proven state of the art performance in computational biology. It has been alread
 
 Main Developer: Dmitriy Desser
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NjMwMTY4MSw5MDgwOTQ3MDUsNjI5NT
-YyNjEsMTE3NjE2NDgxMiwtODIzMjAwODMzLC0xNTA0NDgyNTcs
-MzU0NTQ2NjAwLC0xMTE2MDM4NTE1LDczNTgzOTczNSwtMjQyMj
-YyMDM3LDIwMjkwNDEzMTAsLTIwMzMyMzA0ODgsMTY3MDM5MjM0
-Miw3NDA4NTQ3NiwxNjY3NTEwOTI3LDM5NTA2NTAyMywtMTIwMj
-kxMjU0MCwxNTc1NjYwMDcsLTEyNzE1ODkyMTIsODk5OTExNjld
-fQ==
+eyJoaXN0b3J5IjpbODE4Mjc4ODY5LDkwODA5NDcwNSw2Mjk1Nj
+I2MSwxMTc2MTY0ODEyLC04MjMyMDA4MzMsLTE1MDQ0ODI1Nywz
+NTQ1NDY2MDAsLTExMTYwMzg1MTUsNzM1ODM5NzM1LC0yNDIyNj
+IwMzcsMjAyOTA0MTMxMCwtMjAzMzIzMDQ4OCwxNjcwMzkyMzQy
+LDc0MDg1NDc2LDE2Njc1MTA5MjcsMzk1MDY1MDIzLC0xMjAyOT
+EyNTQwLDE1NzU2NjAwNywtMTI3MTU4OTIxMiw4OTk5MTE2OV19
+
 -->
