@@ -1,7 +1,7 @@
 
 
 
-# Project description Dima
+# Project Description
 
 ## Introduction
  This is a collaboration project between  the Interdisciplinary Center "Smell & Taste" Dresden, Germany and Center for Music in the Brain Aarhus, Denmark.
@@ -55,6 +55,8 @@ Elimination with Support Vector Machine (RFE-SVM)
 
 ## *Your comments and suggestions are highly appreciated!*
 
+
+Main Developer: Dmitriy Desser
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk5OTExNjldfQ==
+eyJoaXN0b3J5IjpbMTU2MDQzMDc4OSw4OTk5MTE2OV19
 -->
