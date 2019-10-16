@@ -30,6 +30,9 @@ The main aim of this project is to develop a machine-learning algorithm for pred
 ### Methods  
 
  1. Clinical data acquisition (already done) 
+
+ <br>
+ 
  2.  Collecting (merge) data from different studies to one big dataset  (currently under development)
 
  <br>
@@ -41,9 +44,13 @@ The main aim of this project is to develop a machine-learning algorithm for pred
 3. Data exploration, Data cleaning and Preprocessing of collected dataset:
 3.1. What clinical populations do we have?
 3.2. How many samples per population?
-3.3. How many features?
+3.3. How many features/clinical parameters?
 3.4. Are features constant between different cohorts?
-5. Developing an automatic feature selection algorithm 
+
+<br>
+
+
+4. Developing an automatic feature selection algorithm 
 in order to identify biomarkers that are relevant for
 the diagnosis.  The most promising way seems to be Recursive Feature Elimination with Support Vector Machine (RFE-SVM). As described in this [paper](https://doi.org/10.1101/711135), this method has shown incredible accuracy and stability of biomarkers selected by this [algorithm](https://www.biorxiv.org/content/10.1101/711135v1.full).
 ![Fig.3](https://www.biorxiv.org/content/biorxiv/early/2019/07/22/711135/F1.large.jpg?width=800&height=600&carousel=1)
@@ -68,11 +75,11 @@ proven state of the art performance in computational biology. It has been alread
 
 Main Developer: Dmitriy Desser
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjI0NzU2NjIsOTA4MDk0NzA1LDYyOT
-U2MjYxLDExNzYxNjQ4MTIsLTgyMzIwMDgzMywtMTUwNDQ4MjU3
-LDM1NDU0NjYwMCwtMTExNjAzODUxNSw3MzU4Mzk3MzUsLTI0Mj
-I2MjAzNywyMDI5MDQxMzEwLC0yMDMzMjMwNDg4LDE2NzAzOTIz
-NDIsNzQwODU0NzYsMTY2NzUxMDkyNywzOTUwNjUwMjMsLTEyMD
-I5MTI1NDAsMTU3NTY2MDA3LC0xMjcxNTg5MjEyLDg5OTkxMTY5
-XX0=
+eyJoaXN0b3J5IjpbLTU4NjMwMTY4MSw5MDgwOTQ3MDUsNjI5NT
+YyNjEsMTE3NjE2NDgxMiwtODIzMjAwODMzLC0xNTA0NDgyNTcs
+MzU0NTQ2NjAwLC0xMTE2MDM4NTE1LDczNTgzOTczNSwtMjQyMj
+YyMDM3LDIwMjkwNDEzMTAsLTIwMzMyMzA0ODgsMTY3MDM5MjM0
+Miw3NDA4NTQ3NiwxNjY3NTEwOTI3LDM5NTA2NTAyMywtMTIwMj
+kxMjU0MCwxNTc1NjYwMDcsLTEyNzE1ODkyMTIsODk5OTExNjld
+fQ==
 -->
