@@ -34,7 +34,7 @@ The main aim of this project is to develop a machine-learning algorithm for pred
  3. Preprocessing of collected dataset
 4. Developing an automatic feature selection algorithm 
 in order to identify biomarkers that are relevant for
-the diagnosis.  The most promising way seems to be Recursive Feature Elimination with Support Vector Machine (RFE-SVM). As described in this [paper](https://doi.org/10.1101/711135), this method has shown  
+the diagnosis.  The most promising way seems to be Recursive Feature Elimination with Support Vector Machine (RFE-SVM). As described in this [paper](https://doi.org/10.1101/711135), this method has shown incredible accuracy 
 
 - desease  prediction algoritm (SVM) based on most relevant features
 *(Jörn Lötsch, Dario Kringel and Thomas Hummel https://doi.org/10.1093/chemse/bjy067)*
@@ -55,6 +55,6 @@ the diagnosis.  The most promising way seems to be Recursive Feature Elimination
 
 Main Developer: Dmitriy Desser
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjkzNTI0NDEsLTEyNzE1ODkyMTIsOD
-k5OTExNjldfQ==
+eyJoaXN0b3J5IjpbMTU3NTY2MDA3LC0xMjcxNTg5MjEyLDg5OT
+kxMTY5XX0=
 -->
