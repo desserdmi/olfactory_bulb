@@ -22,12 +22,12 @@ Furthermore, anosmia is a common non-motor feature of Parkinson's disease (PD). 
 ![olfactory bulb](https://github.com/desserdmi/olfactory_bulb/blob/master/ob.png)
 ######  *Fig 1: Location of olfactory bulb (my own brain) in T2 MRI contrast, acquired on Siemens Prisma 3T . axial (A), sagittal (B) and coronar (C) views.*
 
-### Aims
+## Aims
 
  
 The main aim of this project is to develop a machine-learning algorithm for prediction of Anosmia/Dysosmia and associated diseases  (e.g. Major Depression, Parkinson's disease) based on clinical parameters like volume/shape of bulbus olfactorius, symptoms duration, TDI,  age or gender.
 
-### Methods  
+## Methods  
 
  1. Clinical data acquisition (already done) 
 
@@ -67,7 +67,7 @@ proven state of the art performance in computational biology. It has been alread
 <br><br><br>
 
 
-### Current state:
+## Current state:
 
  - collecting and arranging the data
  - creating of working platform
@@ -81,11 +81,11 @@ proven state of the art performance in computational biology. It has been alread
 
 Main Developer: Dmitriy Desser
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NTgzOTQ1MSw5MDgwOTQ3MDUsNjI5NT
-YyNjEsMTE3NjE2NDgxMiwtODIzMjAwODMzLC0xNTA0NDgyNTcs
-MzU0NTQ2NjAwLC0xMTE2MDM4NTE1LDczNTgzOTczNSwtMjQyMj
-YyMDM3LDIwMjkwNDEzMTAsLTIwMzMyMzA0ODgsMTY3MDM5MjM0
-Miw3NDA4NTQ3NiwxNjY3NTEwOTI3LDM5NTA2NTAyMywtMTIwMj
-kxMjU0MCwxNTc1NjYwMDcsLTEyNzE1ODkyMTIsODk5OTExNjld
-fQ==
+eyJoaXN0b3J5IjpbLTE2MzYyMTc3NjAsOTA4MDk0NzA1LDYyOT
+U2MjYxLDExNzYxNjQ4MTIsLTgyMzIwMDgzMywtMTUwNDQ4MjU3
+LDM1NDU0NjYwMCwtMTExNjAzODUxNSw3MzU4Mzk3MzUsLTI0Mj
+I2MjAzNywyMDI5MDQxMzEwLC0yMDMzMjMwNDg4LDE2NzAzOTIz
+NDIsNzQwODU0NzYsMTY2NzUxMDkyNywzOTUwNjUwMjMsLTEyMD
+I5MTI1NDAsMTU3NTY2MDA3LC0xMjcxNTg5MjEyLDg5OTkxMTY5
+XX0=
 -->
