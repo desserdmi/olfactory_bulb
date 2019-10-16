@@ -64,7 +64,7 @@ the diagnosis.  The most promising way seems to be Recursive Feature Elimination
 proven state of the art performance in computational biology. It has been already used successfully 
 [R.Prashanth et al](https://doi.org/10.1016/j.ijmedinf.2016.03.001) for predicition of Early Parkinson's Disease through Multi-modal Features.  
 Due to multi-modal features (n of features < n of samples) we are going to have (e.g. label volumes derived from MRI data, clinical functional measurements, psychological test results) it makes sense to try a similar approach.  Sure, the performance of other classifiers like Decision Tree or Random Forest (RF) should be tested. 
-As output of the classifier we expect high accuracy, sensitivity and specificity in predicting desease 
+As output of the classifier we expect high accuracy, sensitivity and specificity in predicting disease labels. 
 
 <br><br><br>
 
@@ -83,11 +83,11 @@ As output of the classifier we expect high accuracy, sensitivity and specificity
 
 Main Developer: Dmitriy Desser
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzAxOTM4MTAsLTg1NTMxMDYwMCwyOT
-UyODcwODgsOTA4MDk0NzA1LDYyOTU2MjYxLDExNzYxNjQ4MTIs
-LTgyMzIwMDgzMywtMTUwNDQ4MjU3LDM1NDU0NjYwMCwtMTExNj
-AzODUxNSw3MzU4Mzk3MzUsLTI0MjI2MjAzNywyMDI5MDQxMzEw
-LC0yMDMzMjMwNDg4LDE2NzAzOTIzNDIsNzQwODU0NzYsMTY2Nz
-UxMDkyNywzOTUwNjUwMjMsLTEyMDI5MTI1NDAsMTU3NTY2MDA3
-XX0=
+eyJoaXN0b3J5IjpbNDcwNzA2OTc5LC04NTUzMTA2MDAsMjk1Mj
+g3MDg4LDkwODA5NDcwNSw2Mjk1NjI2MSwxMTc2MTY0ODEyLC04
+MjMyMDA4MzMsLTE1MDQ0ODI1NywzNTQ1NDY2MDAsLTExMTYwMz
+g1MTUsNzM1ODM5NzM1LC0yNDIyNjIwMzcsMjAyOTA0MTMxMCwt
+MjAzMzIzMDQ4OCwxNjcwMzkyMzQyLDc0MDg1NDc2LDE2Njc1MT
+A5MjcsMzk1MDY1MDIzLC0xMjAyOTEyNTQwLDE1NzU2NjAwN119
+
 -->
