@@ -42,6 +42,7 @@ is assessed from the output of the RFE-SVM algorithm, and the final accuracy is 
 *bioRxiv preprint first posted online Jul. 22, 2019; doi: http://dx.doi.org/10.1101/711135. The copyright holder for this preprint (which was not peer-reviewed) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made available under a CC-BY-NC-ND 4.0 International license.*
 
 
+
 - desease  prediction algoritm (SVM) based on most relevant features
 *(Jörn Lötsch, Dario Kringel and Thomas Hummel https://doi.org/10.1093/chemse/bjy067)*
 
@@ -61,7 +62,7 @@ is assessed from the output of the RFE-SVM algorithm, and the final accuracy is 
 
 Main Developer: Dmitriy Desser
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MDM5MjM0Miw3NDA4NTQ3NiwxNjY3NT
-EwOTI3LDM5NTA2NTAyMywtMTIwMjkxMjU0MCwxNTc1NjYwMDcs
-LTEyNzE1ODkyMTIsODk5OTExNjldfQ==
+eyJoaXN0b3J5IjpbLTIwMzMyMzA0ODgsMTY3MDM5MjM0Miw3ND
+A4NTQ3NiwxNjY3NTEwOTI3LDM5NTA2NTAyMywtMTIwMjkxMjU0
+MCwxNTc1NjYwMDcsLTEyNzE1ODkyMTIsODk5OTExNjldfQ==
 -->
