@@ -1,7 +1,7 @@
 
 
 
-# Project Description
+#  <p align="center"> Project Description
 
 ## Introduction
  This is a collaboration project between  the Interdisciplinary Center "Smell & Taste" Dresden, Germany and Center for Music in the Brain Aarhus, Denmark.
@@ -89,11 +89,11 @@ Due to multi-modal features we are going to have (e.g. label volumes derived fro
 
 Main Developer: Dmitriy Desser
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ2MjA0MTQ2LDE3OTg0NzE2OCwxMTE5MT
-c4MDExLC0xNTQ4NzY3MDQyLC0xNDQyNjQ5MTU0LC03MTA3MTA3
-OTksLTE1MzQyMzc5MjUsLTg1NTMxMDYwMCwyOTUyODcwODgsOT
-A4MDk0NzA1LDYyOTU2MjYxLDExNzYxNjQ4MTIsLTgyMzIwMDgz
-MywtMTUwNDQ4MjU3LDM1NDU0NjYwMCwtMTExNjAzODUxNSw3Mz
-U4Mzk3MzUsLTI0MjI2MjAzNywyMDI5MDQxMzEwLC0yMDMzMjMw
-NDg4XX0=
+eyJoaXN0b3J5IjpbLTg4Mzc0ODg4NSwxNzk4NDcxNjgsMTExOT
+E3ODAxMSwtMTU0ODc2NzA0MiwtMTQ0MjY0OTE1NCwtNzEwNzEw
+Nzk5LC0xNTM0MjM3OTI1LC04NTUzMTA2MDAsMjk1Mjg3MDg4LD
+kwODA5NDcwNSw2Mjk1NjI2MSwxMTc2MTY0ODEyLC04MjMyMDA4
+MzMsLTE1MDQ0ODI1NywzNTQ1NDY2MDAsLTExMTYwMzg1MTUsNz
+M1ODM5NzM1LC0yNDIyNjIwMzcsMjAyOTA0MTMxMCwtMjAzMzIz
+MDQ4OF19
 -->
