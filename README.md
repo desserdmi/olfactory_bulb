@@ -67,7 +67,8 @@ proven state of the art performance in computational biology. It has been alread
 
 <br>
 
-![Fig.4  Developing SVM Desease Prediction Algoritm](https://github.com/desserdmi/olfactory_bulb/blob/master/process.png)
+<img src="https://github.com/desserdmi/olfactory_bulb/blob/master/process.png" width=70% height=70% />
+
 
 <br>
 
@@ -91,7 +92,7 @@ Due to multi-modal features we are going to have (e.g. label volumes derived fro
 
 Main Developer: Dmitriy Desser
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNTUyODI4MCwtMTU0ODc2NzA0MiwtMT
+eyJoaXN0b3J5IjpbLTQzODEwMDQ1OSwtMTU0ODc2NzA0MiwtMT
 Q0MjY0OTE1NCwtNzEwNzEwNzk5LC0xNTM0MjM3OTI1LC04NTUz
 MTA2MDAsMjk1Mjg3MDg4LDkwODA5NDcwNSw2Mjk1NjI2MSwxMT
 c2MTY0ODEyLC04MjMyMDA4MzMsLTE1MDQ0ODI1NywzNTQ1NDY2
