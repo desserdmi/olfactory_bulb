@@ -63,6 +63,7 @@ the diagnosis.  The most promising way seems to be Recursive Feature Elimination
 5.  Developing SVM Desease Prediction Algoritm  based on most relevant features.  [SVM has
 proven state of the art performance in computational biology. It has been already used successfully 
 [R.Prashanth et al](https://doi.org/10.1016/j.ijmedinf.2016.03.001) for predicition of Early Parkinson's Disease through Multimodal Features.  
+Due to multimodal features we are going to have (label volumes derived from MRI data, clinical funtional measurements, psychological test results 
 
 <br><br><br>
 
@@ -81,11 +82,11 @@ proven state of the art performance in computational biology. It has been alread
 
 Main Developer: Dmitriy Desser
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk1Mjg3MDg4LDkwODA5NDcwNSw2Mjk1Nj
-I2MSwxMTc2MTY0ODEyLC04MjMyMDA4MzMsLTE1MDQ0ODI1Nywz
-NTQ1NDY2MDAsLTExMTYwMzg1MTUsNzM1ODM5NzM1LC0yNDIyNj
-IwMzcsMjAyOTA0MTMxMCwtMjAzMzIzMDQ4OCwxNjcwMzkyMzQy
-LDc0MDg1NDc2LDE2Njc1MTA5MjcsMzk1MDY1MDIzLC0xMjAyOT
-EyNTQwLDE1NzU2NjAwNywtMTI3MTU4OTIxMiw4OTk5MTE2OV19
-
+eyJoaXN0b3J5IjpbMTgzMzI3ODYwNiwyOTUyODcwODgsOTA4MD
+k0NzA1LDYyOTU2MjYxLDExNzYxNjQ4MTIsLTgyMzIwMDgzMywt
+MTUwNDQ4MjU3LDM1NDU0NjYwMCwtMTExNjAzODUxNSw3MzU4Mz
+k3MzUsLTI0MjI2MjAzNywyMDI5MDQxMzEwLC0yMDMzMjMwNDg4
+LDE2NzAzOTIzNDIsNzQwODU0NzYsMTY2NzUxMDkyNywzOTUwNj
+UwMjMsLTEyMDI5MTI1NDAsMTU3NTY2MDA3LC0xMjcxNTg5MjEy
+XX0=
 -->
