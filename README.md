@@ -64,7 +64,11 @@ the diagnosis.  The most promising way seems to be Recursive Feature Elimination
 proven state of the art performance in computational biology. It has been already used successfully 
 [R.Prashanth et al](https://doi.org/10.1016/j.ijmedinf.2016.03.001) for predicition of Early Parkinson's Disease through Multi-modal Features.  
 
+<br>
+
 ![Fig.4  Developing SVM Desease Prediction Algoritm](https://github.com/desserdmi/olfactory_bulb/blob/master/process.png)
+
+<br>
 
 Due to multi-modal features we are going to have (e.g. label volumes derived from MRI data, clinical functional measurements, psychological test results) it makes sense to try a similar approach.  Sure, the performance of other classifiers like Decision Tree or Random Forest (RF) should be tested. As output of the classifier we expect high accuracy, sensitivity and specificity in predicting disease labels. For now, we are not sure how many different disease labels we are going to have in the dataset and how many of them we will try to predict. It depends on the final version of collected dataset due availability of the data.  
  
@@ -86,7 +90,7 @@ Due to multi-modal features we are going to have (e.g. label volumes derived fro
 
 Main Developer: Dmitriy Desser
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDM4NTI2NzQsLTcxMDcxMDc5OSwtMT
+eyJoaXN0b3J5IjpbLTE0NDI2NDkxNTQsLTcxMDcxMDc5OSwtMT
 UzNDIzNzkyNSwtODU1MzEwNjAwLDI5NTI4NzA4OCw5MDgwOTQ3
 MDUsNjI5NTYyNjEsMTE3NjE2NDgxMiwtODIzMjAwODMzLC0xNT
 A0NDgyNTcsMzU0NTQ2NjAwLC0xMTE2MDM4NTE1LDczNTgzOTcz
