@@ -60,13 +60,7 @@ Age, sex, duration of olfactorys' function loss, TDI-scores, Volume of olfactory
 
 6. Developing an automatic feature selection algorithm 
 in order to identify biomarkers that are relevant for
-the diagnosis.  The most promising way seems to be Recursive Feature Elimination with Support Vector Machine (RFE-SVM). As described in this [paper](https://doi.org/10.1101/711135), this method has shown incredible accuracy and stability of biomarkers selected by this [algorithm](https://www.biorxiv.org/content/10.1101/711135v1.full).
-<br> <br>
-<p align="center"> 
-
-![Fig.3](https://www.biorxiv.org/content/biorxiv/early/2019/07/22/711135/F1.large.jpg?width=800&height=600&carousel=1)
-###### *Fig. 2. Overview of the proposed method. Feature selection is performed systematically across different partitions of the original dataset. Robustness of selected biomarkersis assessed from the output of the RFE-SVM algorithm, and the final accuracy is averaged over subsamplings estimations. (*bioRxiv preprint first posted online Jul. 22, 2019; doi: http://dx.doi.org/10.1101/711135. The copyright holder for this preprint (which was not peer-reviewed) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made available under a CC-BY-NC-ND 4.0 International license.)**
-
+the diagnosis.  
 
 <br>
 
@@ -97,11 +91,11 @@ Due to multi-modal features we are going to have (e.g. label volumes derived fro
 
 Main Developer: Dmitriy Desser
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0Mjg1ODEwMCwyMTMzMjQ1MzE3LDU4NT
-c5Nzk4OCwxNzk4NDcxNjgsMTExOTE3ODAxMSwtMTU0ODc2NzA0
-MiwtMTQ0MjY0OTE1NCwtNzEwNzEwNzk5LC0xNTM0MjM3OTI1LC
-04NTUzMTA2MDAsMjk1Mjg3MDg4LDkwODA5NDcwNSw2Mjk1NjI2
-MSwxMTc2MTY0ODEyLC04MjMyMDA4MzMsLTE1MDQ0ODI1NywzNT
-Q1NDY2MDAsLTExMTYwMzg1MTUsNzM1ODM5NzM1LC0yNDIyNjIw
-MzddfQ==
+eyJoaXN0b3J5IjpbNzE4MDUyMzU5LDIxMzMyNDUzMTcsNTg1Nz
+k3OTg4LDE3OTg0NzE2OCwxMTE5MTc4MDExLC0xNTQ4NzY3MDQy
+LC0xNDQyNjQ5MTU0LC03MTA3MTA3OTksLTE1MzQyMzc5MjUsLT
+g1NTMxMDYwMCwyOTUyODcwODgsOTA4MDk0NzA1LDYyOTU2MjYx
+LDExNzYxNjQ4MTIsLTgyMzIwMDgzMywtMTUwNDQ4MjU3LDM1ND
+U0NjYwMCwtMTExNjAzODUxNSw3MzU4Mzk3MzUsLTI0MjI2MjAz
+N119
 -->
