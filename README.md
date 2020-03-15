@@ -40,7 +40,7 @@ Patients with post-viral (PV), post-traumatic (PT), idiopatic (IP) lost of olfac
 Age, sex, duration of olfactorys' function loss, TDI-scores, Volume of olfactory bulb<br><br>
 
 4. MRI Data Preprocessing and manual segmentation<br>
-4.1. Original T2 MRI scans (original size: 256x256x32)  were resampled to the size of (1200x1200x32) using scipy resamle function and cubic interpolation method. Then the segmentation and creation of binary masks of olfactory bulbs was performed using ITK Snap 3.8 software. afterwards the masks were resampled back to the original size using nilearn resample function and nearest neighbor interpolation method. This step improved the dice coefficient by **8%** compared to segmentation directly on original images without resampling step.     
+4.1. Original T2 MRI scans (original size: 256x256x32)  were resampled to the size of (1200x1200x32) using scipy resamle function and cubic interpolation method. Then the segmentation and creation of binary masks of olfactory bulbs was performed using ITK SNAP 3.8 software. afterwards the masks were resampled back to the original size using nilearn resample function and nearest neighbor interpolation method. This step improved the dice coefficient by **8%** compared to segmentation directly on original images without resampling step.     
 
 
 6. Developing an automatic feature selection algorithm 
@@ -76,11 +76,11 @@ Due to multi-modal features we are going to have (e.g. label volumes derived fro
 
 Main Developer: Dmitriy Desser
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MDg0MzgxMywtOTM2OTU5NjQ5LDIxMz
-MyNDUzMTcsNTg1Nzk3OTg4LDE3OTg0NzE2OCwxMTE5MTc4MDEx
-LC0xNTQ4NzY3MDQyLC0xNDQyNjQ5MTU0LC03MTA3MTA3OTksLT
-E1MzQyMzc5MjUsLTg1NTMxMDYwMCwyOTUyODcwODgsOTA4MDk0
-NzA1LDYyOTU2MjYxLDExNzYxNjQ4MTIsLTgyMzIwMDgzMywtMT
-UwNDQ4MjU3LDM1NDU0NjYwMCwtMTExNjAzODUxNSw3MzU4Mzk3
-MzVdfQ==
+eyJoaXN0b3J5IjpbNzc0ODAyMjM1LC02OTA4NDM4MTMsLTkzNj
+k1OTY0OSwyMTMzMjQ1MzE3LDU4NTc5Nzk4OCwxNzk4NDcxNjgs
+MTExOTE3ODAxMSwtMTU0ODc2NzA0MiwtMTQ0MjY0OTE1NCwtNz
+EwNzEwNzk5LC0xNTM0MjM3OTI1LC04NTUzMTA2MDAsMjk1Mjg3
+MDg4LDkwODA5NDcwNSw2Mjk1NjI2MSwxMTc2MTY0ODEyLC04Mj
+MyMDA4MzMsLTE1MDQ0ODI1NywzNTQ1NDY2MDAsLTExMTYwMzg1
+MTVdfQ==
 -->
