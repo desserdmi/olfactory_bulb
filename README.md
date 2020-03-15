@@ -48,6 +48,9 @@ in order to identify biomarkers that are relevant for
 the diagnosis.  
 
 <br>
+<p align="center"> <img src="https://github.com/desserdmi/olfactory_bulb/blob/master/feature_selection.png" width=70% height=70% /></p>
+<br>
+
 
 
 5.  Developing SVM Desease Prediction Algoritm  based on most relevant features.  SVM has
@@ -76,11 +79,11 @@ Due to multi-modal features we are going to have (e.g. label volumes derived fro
 
 Main Developer: Dmitriy Desser
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc0ODAyMjM1LC02OTA4NDM4MTMsLTkzNj
-k1OTY0OSwyMTMzMjQ1MzE3LDU4NTc5Nzk4OCwxNzk4NDcxNjgs
-MTExOTE3ODAxMSwtMTU0ODc2NzA0MiwtMTQ0MjY0OTE1NCwtNz
-EwNzEwNzk5LC0xNTM0MjM3OTI1LC04NTUzMTA2MDAsMjk1Mjg3
-MDg4LDkwODA5NDcwNSw2Mjk1NjI2MSwxMTc2MTY0ODEyLC04Mj
-MyMDA4MzMsLTE1MDQ0ODI1NywzNTQ1NDY2MDAsLTExMTYwMzg1
-MTVdfQ==
+eyJoaXN0b3J5IjpbMTI4ODk1MDg1OSw3NzQ4MDIyMzUsLTY5MD
+g0MzgxMywtOTM2OTU5NjQ5LDIxMzMyNDUzMTcsNTg1Nzk3OTg4
+LDE3OTg0NzE2OCwxMTE5MTc4MDExLC0xNTQ4NzY3MDQyLC0xND
+QyNjQ5MTU0LC03MTA3MTA3OTksLTE1MzQyMzc5MjUsLTg1NTMx
+MDYwMCwyOTUyODcwODgsOTA4MDk0NzA1LDYyOTU2MjYxLDExNz
+YxNjQ4MTIsLTgyMzIwMDgzMywtMTUwNDQ4MjU3LDM1NDU0NjYw
+MF19
 -->
