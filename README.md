@@ -33,14 +33,14 @@ The main aim of this project is to develop a machine-learning algorithm for pred
 
 2. Data exploration, Data cleaning and Preprocessing of collected dataset: <br><br>
 
-3.1. What clinical populations do we have? <br>
+2.1. What clinical populations do we have? <br>
 
 Patients with post-viral (PV), post-traumatic (PT), idiopatic (IP) lost of olfactory function and healthy cohort.  <br>
-3.2. How many samples per population? <br>
+2.2. How many samples per population? <br>
 
 ~ 70 patients and ~ 70 control
 
-3.3. What features/clinical parameters do we have? <br>
+2.3. What features/clinical parameters do we have? <br>
 Age, sex, duration of olfactorys' function loss, TDI-scores, Volume of olfactory bulb<br><br>
 
 4. MRI Data Preprocessing and manual segmentation<br>
@@ -80,7 +80,7 @@ Due to multi-modal features we are going to have (e.g. label volumes derived fro
 
 Main Developer: Dmitriy Desser
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NTY1NDA1MCwyMTMzMjQ1MzE3LDU4NT
+eyJoaXN0b3J5IjpbLTkzNjk1OTY0OSwyMTMzMjQ1MzE3LDU4NT
 c5Nzk4OCwxNzk4NDcxNjgsMTExOTE3ODAxMSwtMTU0ODc2NzA0
 MiwtMTQ0MjY0OTE1NCwtNzEwNzEwNzk5LC0xNTM0MjM3OTI1LC
 04NTUzMTA2MDAsMjk1Mjg3MDg4LDkwODA5NDcwNSw2Mjk1NjI2
