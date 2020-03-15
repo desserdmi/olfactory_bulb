@@ -52,12 +52,9 @@ Patients with post-viral (PV), post-traumatic (PT), idiopatic (IP) lost of olfac
 ~ 70 patients and ~ 70 control
 
 3.3. What features/clinical parameters do we have? <br>
-Age, sex, duration of olfactorys' function loss, TDI-scores, Volume of olfactory bulb
+Age, sex, duration of olfactorys' function loss, TDI-scores, Volume of olfactory bulb<br>
 
-3.4. Are features constant between different cohorts? <br>
-
-<br>
-
+4. 
 
 4. Developing an automatic feature selection algorithm 
 in order to identify biomarkers that are relevant for
@@ -98,7 +95,7 @@ Due to multi-modal features we are going to have (e.g. label volumes derived fro
 
 Main Developer: Dmitriy Desser
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMzcyODQ2Nyw1ODU3OTc5ODgsMTc5OD
+eyJoaXN0b3J5IjpbLTc2MjY4MzU5NSw1ODU3OTc5ODgsMTc5OD
 Q3MTY4LDExMTkxNzgwMTEsLTE1NDg3NjcwNDIsLTE0NDI2NDkx
 NTQsLTcxMDcxMDc5OSwtMTUzNDIzNzkyNSwtODU1MzEwNjAwLD
 I5NTI4NzA4OCw5MDgwOTQ3MDUsNjI5NTYyNjEsMTE3NjE2NDgx
