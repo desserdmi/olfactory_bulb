@@ -51,6 +51,9 @@ the diagnosis.
 <p align="center"> <img src="https://github.com/desserdmi/olfactory_bulb/blob/master/feature_selection.png" width=70% height=70% /></p>
 <br>
 
+<p align="center"> <img src="https://github.com/desserdmi/olfactory_bulb/blob/master/feature_selection_2.png" width=70% height=70% /></p>
+<br>
+
 
 
 5.  Developing SVM Desease Prediction Algoritm  based on most relevant features.  SVM has
@@ -79,7 +82,7 @@ Due to multi-modal features we are going to have (e.g. label volumes derived fro
 
 Main Developer: Dmitriy Desser
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4ODk1MDg1OSw3NzQ4MDIyMzUsLTY5MD
+eyJoaXN0b3J5IjpbMTE0MDUxNTE4Miw3NzQ4MDIyMzUsLTY5MD
 g0MzgxMywtOTM2OTU5NjQ5LDIxMzMyNDUzMTcsNTg1Nzk3OTg4
 LDE3OTg0NzE2OCwxMTE5MTc4MDExLC0xNTQ4NzY3MDQyLC0xND
 QyNjQ5MTU0LC03MTA3MTA3OTksLTE1MzQyMzc5MjUsLTg1NTMx
