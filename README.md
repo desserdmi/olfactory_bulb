@@ -25,7 +25,7 @@ Furthermore, anosmia is a common non-motor feature of Parkinson's disease (PD). 
 ## Aims
 
  
-The main aim of this project is to develop a machine-learning algorithm for prediction of anosmia/dysosmia cause based on clinical parameters like volume/shape of bulbus olfactorius, symptoms duration, TDI,  age or gender.
+The main aim of this project is to develop a machine-learning algorithm for prediction of anosmia/dysosmia cause based on clinical parameters like volume/shape of bulbus olfactorius, symptoms duration, TDI,  age and gender.
 
 ## Methods  
 
@@ -33,7 +33,7 @@ The main aim of this project is to develop a machine-learning algorithm for pred
 
  <br>
  
- 2.  Collecting (merge) data from different studies to one big dataset  (currently under development)
+ 2.  Collecting (merge) data from different studies to one big dataset 
 
  <br>
  
@@ -92,11 +92,11 @@ Due to multi-modal features we are going to have (e.g. label volumes derived fro
 
 Main Developer: Dmitriy Desser
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTQwMTQ1OTQsNTg1Nzk3OTg4LDE3OT
-g0NzE2OCwxMTE5MTc4MDExLC0xNTQ4NzY3MDQyLC0xNDQyNjQ5
-MTU0LC03MTA3MTA3OTksLTE1MzQyMzc5MjUsLTg1NTMxMDYwMC
-wyOTUyODcwODgsOTA4MDk0NzA1LDYyOTU2MjYxLDExNzYxNjQ4
-MTIsLTgyMzIwMDgzMywtMTUwNDQ4MjU3LDM1NDU0NjYwMCwtMT
-ExNjAzODUxNSw3MzU4Mzk3MzUsLTI0MjI2MjAzNywyMDI5MDQx
-MzEwXX0=
+eyJoaXN0b3J5IjpbLTQ4NzY1ODAzMiw1ODU3OTc5ODgsMTc5OD
+Q3MTY4LDExMTkxNzgwMTEsLTE1NDg3NjcwNDIsLTE0NDI2NDkx
+NTQsLTcxMDcxMDc5OSwtMTUzNDIzNzkyNSwtODU1MzEwNjAwLD
+I5NTI4NzA4OCw5MDgwOTQ3MDUsNjI5NTYyNjEsMTE3NjE2NDgx
+MiwtODIzMjAwODMzLC0xNTA0NDgyNTcsMzU0NTQ2NjAwLC0xMT
+E2MDM4NTE1LDczNTgzOTczNSwtMjQyMjYyMDM3LDIwMjkwNDEz
+MTBdfQ==
 -->
