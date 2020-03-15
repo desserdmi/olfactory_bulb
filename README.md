@@ -55,7 +55,7 @@ Patients with post-viral (PV), post-traumatic (PT), idiopatic (IP) lost of olfac
 Age, sex, duration of olfactorys' function loss, TDI-scores, Volume of olfactory bulb<br>
 
 4. MRI Data Preprocessing and manual segmentation<br>
-4.1. Original T2 MRI scans (original size: 256x256x32)  were resampled to the size of (1200x1200x32) using scipy resamle function and cubic interpolation method. Then the segmentation and creation of binary masks of olfactory bulbs was performed using ITK Snap 3.8 software. afterwards the masks were resampled back to the original size using nilearn resample function and nearest neighbor interpolation method. This step improoved    
+4.1. Original T2 MRI scans (original size: 256x256x32)  were resampled to the size of (1200x1200x32) using scipy resamle function and cubic interpolation method. Then the segmentation and creation of binary masks of olfactory bulbs was performed using ITK Snap 3.8 software. afterwards the masks were resampled back to the original size using nilearn resample function and nearest neighbor interpolation method. This step improved the dice coefficient by **8%** compared to segmentation directly on original images without resampling step.     
 
 
 6. Developing an automatic feature selection algorithm 
@@ -97,11 +97,11 @@ Due to multi-modal features we are going to have (e.g. label volumes derived fro
 
 Main Developer: Dmitriy Desser
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzA1NTk3MTgsMjEzMzI0NTMxNyw1OD
-U3OTc5ODgsMTc5ODQ3MTY4LDExMTkxNzgwMTEsLTE1NDg3Njcw
-NDIsLTE0NDI2NDkxNTQsLTcxMDcxMDc5OSwtMTUzNDIzNzkyNS
-wtODU1MzEwNjAwLDI5NTI4NzA4OCw5MDgwOTQ3MDUsNjI5NTYy
-NjEsMTE3NjE2NDgxMiwtODIzMjAwODMzLC0xNTA0NDgyNTcsMz
-U0NTQ2NjAwLC0xMTE2MDM4NTE1LDczNTgzOTczNSwtMjQyMjYy
-MDM3XX0=
+eyJoaXN0b3J5IjpbLTY0Mjg1ODEwMCwyMTMzMjQ1MzE3LDU4NT
+c5Nzk4OCwxNzk4NDcxNjgsMTExOTE3ODAxMSwtMTU0ODc2NzA0
+MiwtMTQ0MjY0OTE1NCwtNzEwNzEwNzk5LC0xNTM0MjM3OTI1LC
+04NTUzMTA2MDAsMjk1Mjg3MDg4LDkwODA5NDcwNSw2Mjk1NjI2
+MSwxMTc2MTY0ODEyLC04MjMyMDA4MzMsLTE1MDQ0ODI1NywzNT
+Q1NDY2MDAsLTExMTYwMzg1MTUsNzM1ODM5NzM1LC0yNDIyNjIw
+MzddfQ==
 -->
