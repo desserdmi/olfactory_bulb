@@ -31,7 +31,7 @@ The main aim of this project is to develop a machine-learning algorithm for pred
 
  1. Clinical data acquisition (already done) 
 
-3. Data exploration, Data cleaning and Preprocessing of collected dataset: <br><br>
+2. Data exploration, Data cleaning and Preprocessing of collected dataset: <br><br>
 
 3.1. What clinical populations do we have? <br>
 
@@ -80,7 +80,7 @@ Due to multi-modal features we are going to have (e.g. label volumes derived fro
 
 Main Developer: Dmitriy Desser
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNjY2NDI1NSwyMTMzMjQ1MzE3LDU4NT
+eyJoaXN0b3J5IjpbMTE4NTY1NDA1MCwyMTMzMjQ1MzE3LDU4NT
 c5Nzk4OCwxNzk4NDcxNjgsMTExOTE3ODAxMSwtMTU0ODc2NzA0
 MiwtMTQ0MjY0OTE1NCwtNzEwNzEwNzk5LC0xNTM0MjM3OTI1LC
 04NTUzMTA2MDAsMjk1Mjg3MDg4LDkwODA5NDcwNSw2Mjk1NjI2
