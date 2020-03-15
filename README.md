@@ -55,7 +55,7 @@ Patients with post-viral (PV), post-traumatic (PT), idiopatic (IP) lost of olfac
 Age, sex, duration of olfactorys' function loss, TDI-scores, Volume of olfactory bulb<br>
 
 4. MRI Data Preprocessing and manual segmentation<br>
-5. 
+4.1. Original T2 MRI scans (original size: 256x256x32)  were resampled to the size of (1200x  
 
 
 6. Developing an automatic feature selection algorithm 
@@ -97,7 +97,7 @@ Due to multi-modal features we are going to have (e.g. label volumes derived fro
 
 Main Developer: Dmitriy Desser
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUyMjM3ODgxLDIxMzMyNDUzMTcsNTg1Nz
+eyJoaXN0b3J5IjpbMjA1NDkxMzU3LDIxMzMyNDUzMTcsNTg1Nz
 k3OTg4LDE3OTg0NzE2OCwxMTE5MTc4MDExLC0xNTQ4NzY3MDQy
 LC0xNDQyNjQ5MTU0LC03MTA3MTA3OTksLTE1MzQyMzc5MjUsLT
 g1NTMxMDYwMCwyOTUyODcwODgsOTA4MDk0NzA1LDYyOTU2MjYx
