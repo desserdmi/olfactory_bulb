@@ -31,8 +31,7 @@ The main aim of this project is to develop a machine-learning algorithm for pred
 
  1. Clinical data acquisition (already done) 
 
-2. Data exploration, Data cleaning and Preprocessing of collected dataset: <br><br>
-
+2. Data exploration, Data cleaning and Preprocessing of collected dataset: <br>
 2.1. What clinical populations do we have? <br>
 
 Patients with post-viral (PV), post-traumatic (PT), idiopatic (IP) lost of olfactory function and healthy cohort.  <br>
@@ -80,11 +79,11 @@ Due to multi-modal features we are going to have (e.g. label volumes derived fro
 
 Main Developer: Dmitriy Desser
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNjk1OTY0OSwyMTMzMjQ1MzE3LDU4NT
-c5Nzk4OCwxNzk4NDcxNjgsMTExOTE3ODAxMSwtMTU0ODc2NzA0
-MiwtMTQ0MjY0OTE1NCwtNzEwNzEwNzk5LC0xNTM0MjM3OTI1LC
-04NTUzMTA2MDAsMjk1Mjg3MDg4LDkwODA5NDcwNSw2Mjk1NjI2
-MSwxMTc2MTY0ODEyLC04MjMyMDA4MzMsLTE1MDQ0ODI1NywzNT
-Q1NDY2MDAsLTExMTYwMzg1MTUsNzM1ODM5NzM1LC0yNDIyNjIw
-MzddfQ==
+eyJoaXN0b3J5IjpbMTczMDczNDM3MSwtOTM2OTU5NjQ5LDIxMz
+MyNDUzMTcsNTg1Nzk3OTg4LDE3OTg0NzE2OCwxMTE5MTc4MDEx
+LC0xNTQ4NzY3MDQyLC0xNDQyNjQ5MTU0LC03MTA3MTA3OTksLT
+E1MzQyMzc5MjUsLTg1NTMxMDYwMCwyOTUyODcwODgsOTA4MDk0
+NzA1LDYyOTU2MjYxLDExNzYxNjQ4MTIsLTgyMzIwMDgzMywtMT
+UwNDQ4MjU3LDM1NDU0NjYwMCwtMTExNjAzODUxNSw3MzU4Mzk3
+MzVdfQ==
 -->
