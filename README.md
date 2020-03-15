@@ -70,9 +70,9 @@ Due to multi-modal features we are going to have (e.g. label volumes derived fro
 
 ## Current state:
 
- - collecting and arranging the data
- - creating of working platform
- - literature review to improve methods
+ - development of 3D  model of the olfactory bulbs and fe 
+ - development of feature selection algorithm
+ 
 
 
 <br><br><br><br><br>
@@ -82,11 +82,11 @@ Due to multi-modal features we are going to have (e.g. label volumes derived fro
 
 Main Developer: Dmitriy Desser
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MDUxNTE4Miw3NzQ4MDIyMzUsLTY5MD
-g0MzgxMywtOTM2OTU5NjQ5LDIxMzMyNDUzMTcsNTg1Nzk3OTg4
-LDE3OTg0NzE2OCwxMTE5MTc4MDExLC0xNTQ4NzY3MDQyLC0xND
-QyNjQ5MTU0LC03MTA3MTA3OTksLTE1MzQyMzc5MjUsLTg1NTMx
-MDYwMCwyOTUyODcwODgsOTA4MDk0NzA1LDYyOTU2MjYxLDExNz
-YxNjQ4MTIsLTgyMzIwMDgzMywtMTUwNDQ4MjU3LDM1NDU0NjYw
-MF19
+eyJoaXN0b3J5IjpbLTE1NjAwMjMwMDIsMTE0MDUxNTE4Miw3Nz
+Q4MDIyMzUsLTY5MDg0MzgxMywtOTM2OTU5NjQ5LDIxMzMyNDUz
+MTcsNTg1Nzk3OTg4LDE3OTg0NzE2OCwxMTE5MTc4MDExLC0xNT
+Q4NzY3MDQyLC0xNDQyNjQ5MTU0LC03MTA3MTA3OTksLTE1MzQy
+Mzc5MjUsLTg1NTMxMDYwMCwyOTUyODcwODgsOTA4MDk0NzA1LD
+YyOTU2MjYxLDExNzYxNjQ4MTIsLTgyMzIwMDgzMywtMTUwNDQ4
+MjU3XX0=
 -->
