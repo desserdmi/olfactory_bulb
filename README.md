@@ -32,8 +32,6 @@ The main aim of this project is to develop a machine-learning algorithm for pred
  1. Clinical data acquisition (already done) 
 
  <br>
- 
- 2.  Collecting (merge) data from different studies to one big dataset 
 
  <br>
  
@@ -46,6 +44,7 @@ The main aim of this project is to develop a machine-learning algorithm for pred
 
 3. Data exploration, Data cleaning and Preprocessing of collected dataset: <br><br>
 3.1. What clinical populations do we have? <br>
+
 3.2. How many samples per population? <br>
 3.3. How many features/clinical parameters? <br>
 3.4. Are features constant between different cohorts? <br>
@@ -92,7 +91,7 @@ Due to multi-modal features we are going to have (e.g. label volumes derived fro
 
 Main Developer: Dmitriy Desser
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NzY1ODAzMiw1ODU3OTc5ODgsMTc5OD
+eyJoaXN0b3J5IjpbLTc3MTE0NzMxNCw1ODU3OTc5ODgsMTc5OD
 Q3MTY4LDExMTkxNzgwMTEsLTE1NDg3NjcwNDIsLTE0NDI2NDkx
 NTQsLTcxMDcxMDc5OSwtMTUzNDIzNzkyNSwtODU1MzEwNjAwLD
 I5NTI4NzA4OCw5MDgwOTQ3MDUsNjI5NTYyNjEsMTE3NjE2NDgx
