@@ -70,7 +70,7 @@ Due to multi-modal features we are going to have (e.g. label volumes derived fro
 
 ## Current state:
 
- - development of 3D  model of the olfactory bulbs and fe 
+ - 3D - model  development of the olfactory bulbs and feature extraction 
  - development of feature selection algorithm
  
 
@@ -82,7 +82,7 @@ Due to multi-modal features we are going to have (e.g. label volumes derived fro
 
 Main Developer: Dmitriy Desser
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjAwMjMwMDIsMTE0MDUxNTE4Miw3Nz
+eyJoaXN0b3J5IjpbLTE2MjY5MzYwNTAsMTE0MDUxNTE4Miw3Nz
 Q4MDIyMzUsLTY5MDg0MzgxMywtOTM2OTU5NjQ5LDIxMzMyNDUz
 MTcsNTg1Nzk3OTg4LDE3OTg0NzE2OCwxMTE5MTc4MDExLC0xNT
 Q4NzY3MDQyLC0xNDQyNjQ5MTU0LC03MTA3MTA3OTksLTE1MzQy
