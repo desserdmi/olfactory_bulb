@@ -33,12 +33,9 @@ The main aim of this project is to develop a machine-learning algorithm for pred
 
 2. Data exploration, Data cleaning and Preprocessing of collected dataset: <br>
 2.1. What clinical populations do we have? <br>
-
 Patients with post-viral (PV), post-traumatic (PT), idiopatic (IP) lost of olfactory function and healthy cohort.  <br>
 2.2. How many samples per population? <br>
-
 ~ 70 patients and ~ 70 control
-
 2.3. What features/clinical parameters do we have? <br>
 Age, sex, duration of olfactorys' function loss, TDI-scores, Volume of olfactory bulb<br><br>
 
@@ -79,11 +76,11 @@ Due to multi-modal features we are going to have (e.g. label volumes derived fro
 
 Main Developer: Dmitriy Desser
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMDczNDM3MSwtOTM2OTU5NjQ5LDIxMz
-MyNDUzMTcsNTg1Nzk3OTg4LDE3OTg0NzE2OCwxMTE5MTc4MDEx
-LC0xNTQ4NzY3MDQyLC0xNDQyNjQ5MTU0LC03MTA3MTA3OTksLT
-E1MzQyMzc5MjUsLTg1NTMxMDYwMCwyOTUyODcwODgsOTA4MDk0
-NzA1LDYyOTU2MjYxLDExNzYxNjQ4MTIsLTgyMzIwMDgzMywtMT
-UwNDQ4MjU3LDM1NDU0NjYwMCwtMTExNjAzODUxNSw3MzU4Mzk3
-MzVdfQ==
+eyJoaXN0b3J5IjpbLTE2MzQ0MDk0MTksLTkzNjk1OTY0OSwyMT
+MzMjQ1MzE3LDU4NTc5Nzk4OCwxNzk4NDcxNjgsMTExOTE3ODAx
+MSwtMTU0ODc2NzA0MiwtMTQ0MjY0OTE1NCwtNzEwNzEwNzk5LC
+0xNTM0MjM3OTI1LC04NTUzMTA2MDAsMjk1Mjg3MDg4LDkwODA5
+NDcwNSw2Mjk1NjI2MSwxMTc2MTY0ODEyLC04MjMyMDA4MzMsLT
+E1MDQ0ODI1NywzNTQ1NDY2MDAsLTExMTYwMzg1MTUsNzM1ODM5
+NzM1XX0=
 -->
