@@ -40,7 +40,7 @@ Patients with post-viral (PV), post-traumatic (PT), idiopatic (IP) lost of olfac
 Age, sex, duration of olfactorys' function loss, TDI-scores, Volume of olfactory bulb<br><br>
 
 4. MRI Data Preprocessing and manual segmentation<br>
-4.1. Original T2 MRI scans (original size: 256x256x32)  were resampled to the size of (1200x1200x32) using fslpy resamle function and cubic interpolation method. Then the segmentation and creation of binary masks of olfactory bulbs was performed using ITK SNAP 3.8 software. afterwards the masks were resampled back to the original size using nilearn resample function and nearest neighbor interpolation method. This step improved the dice coefficient by **8%** (0.88 to 0.96) between two different raters compared to segmentation directly on original images without resampling step.     
+4.1. Original T2 MRI scans (original size: 256x256x32)  were resampled to the size of (1200x1200x32) using fslpy resamle function and cubic interpolation method. Then the segmentation and creation of binary masks of olfactory bulbs was performed using ITK SNAP 3.8 software. afterwards the masks were resampled back to the original size using nilearn resample function and nearest neighbor interpolation method. This step improved the dice coefficient by **8%** (mean: 0.88 to 0.96) between two different raters compared to segmentation directly on original images without resampling step.     
 
 
 6. Developing an automatic feature selection algorithm 
@@ -82,7 +82,7 @@ Due to multi-modal features we are going to have (e.g. label volumes derived fro
 
 Main Developer: Dmitriy Desser
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MzQ4MDEwMywtMjk2NzgzOTM3LDExND
+eyJoaXN0b3J5IjpbMTE3OTQ1ODM3MiwtMjk2NzgzOTM3LDExND
 A1MTUxODIsNzc0ODAyMjM1LC02OTA4NDM4MTMsLTkzNjk1OTY0
 OSwyMTMzMjQ1MzE3LDU4NTc5Nzk4OCwxNzk4NDcxNjgsMTExOT
 E3ODAxMSwtMTU0ODc2NzA0MiwtMTQ0MjY0OTE1NCwtNzEwNzEw
